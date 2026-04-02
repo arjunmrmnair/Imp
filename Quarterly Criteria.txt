@@ -1,0 +1,304 @@
+QUARTERLY CRITERIA - MANDATORY CHECKS FOR EVERY STOCK RECOMMENDATION
+Last Updated: After ELGIEQUIP Error Analysis (3-Year Returns Critical Filter Added)
+
+=== TIER 1: HARD STOPS (Any failure = ELIMINATION) ===
+
+✓ 3-Year Stock Price CAGR ≥ 15% [CRITICAL - Root cause of ELGIEQUIP error]
+✓ Market Cap ≥ ₹1,000 Cr
+✓ PAT ≥ ₹500 Cr
+✓ ROCE > 20%
+✓ ROE > 15% (5Y average)
+✓ Debt-to-Equity < 0.25
+✓ FCF (5Y Trend) > 0
+✓ Promoter Pledge = 0%
+✓ P/E Ratio < 80
+✓ Current Ratio > 1.5
+✓ Interest Coverage Ratio > 3x
+
+=== TIER 2: BUSINESS QUALITY CHECK ===
+
+YoY Revenue Growth 
+  → Target: > 8%, Consistent across quarters
+  → Red flag: Declining or volatile
+
+EPS Growth
+  → Target: > 15% YoY
+  → Should accelerate: 1Y > 3Y > 5Y pattern
+  → Red flag: Declining EPS despite revenue growth
+
+Operating Margin (EBITDA Margin)
+  → Target: > 15% (Premium businesses > 20%)
+  → Direction: Should be stable or improving
+  → Red flag: Declining margins = competitive pressure
+
+Net Profit Margin
+  → Direction: Stable or improving
+  → Red flag: Declining margin while growing revenue = cost structure broken
+
+Return on Equity
+  → Target: > 15% (5Y average)
+  → Direction: Should be improving YoY
+  → Red flag: Declining ROE
+
+Return on Capital Employed
+  → Target: > 20%
+  → Direction: Should be improving
+  → Red flag: Declining ROCE = capital efficiency worsening
+
+=== TIER 3: GROWTH VALIDATION ===
+
+5-Year Revenue CAGR
+  → Target: ≥ 10%
+  → Red flag: < 8%
+
+5-Year Profit CAGR
+  → Target: ≥ 15%
+  → Key check: Profit CAGR vs Revenue CAGR ratio
+    - If Profit < Revenue: Cost structure deteriorating
+    - If Profit >> Revenue: Margin expansion (✓ good)
+
+3-Year Profit CAGR  
+  → Target: ≥ 20%
+  → Why: Validates that profit acceleration is real, not temporary
+
+YoY Quarterly Sales Growth
+  → Target: > 8%
+  → Consistency: Should not fluctuate wildly (lumpy = risky)
+
+YoY Quarterly Profit Growth
+  → Target: > 1%
+  → Trend: Should be consistent quarter-on-quarter
+
+=== TIER 4: FINANCIAL HEALTH ===
+
+Debt Level (Debt-to-Equity)
+  → Target: < 0.25
+  → Direction: Declining is good; increasing is bad
+  → Red flag: > 0.40
+
+Free Cash Flow
+  → Target: Positive and growing
+  → Direction: Should track with profit growth
+  → Red flag: Negative or declining FCF
+
+Asset Turnover
+  → Direction: Stable or improving
+  → Red flag: Declining = inefficient asset utilization
+
+Quick Ratio
+  → Target: > 1
+  → Problem: < 1 = liquidity stress
+
+=== TIER 5: GOVERNANCE & MANAGEMENT QUALITY ===
+
+Dividend Yield
+  → Good sign: Consistent dividends
+  → Better sign: Growing dividends (Management confidence)
+  → Calculate: Payout Ratio should be < 50% (leaves room for growth)
+
+Promoter Pledge
+  → Target: 0%
+  → Red flag: > 10%
+
+Promoter Holding Trend
+  → Good: Increasing (Insider confidence)
+  → Bad: Decreasing (Insider selling)
+  → Neutral: Stable
+
+Insider Trading
+  → Good: Promoter buying in last 2 quarters
+  → Bad: Promoter selling
+  → Context: Understand reason (personal vs loss of confidence)
+
+=== TIER 6: RED FLAGS - IMMEDIATE ELIMINATION ===
+
+❌ 3Y Stock Price CAGR < 15% [CRITICAL]
+❌ Revenue declining YoY
+❌ Profit declining faster than revenue decline
+❌ ROCE declining
+❌ Operating Cash Flow < Net Income
+❌ Debt increasing while revenue flat
+❌ Interest Coverage < 2x
+❌ Working Capital deteriorating
+❌ Frequent auditor changes
+❌ Restated financials in past 3 years
+❌ Promoter pledge > 10%
+❌ Market share declining for 2+ years
+
+=== VALUATION CHECKS ===
+
+Price-to-Earnings Ratio
+  → < 20: Undervalued
+  → 20-40: Fair
+  → > 40: Overvalued  
+  → > 80: Eliminate
+
+Price-to-Book Ratio
+  → Target: < 3x
+  → Conservative: < 2x
+
+EV/EBITDA
+  → Target: < 12x
+  → Attractive: < 8x
+
+PEG Ratio (Implicit)
+  → P/E should not exceed growth rate
+  → Example: 40% growth rate = P/E up to 40x acceptable
+    But capped at <80x per hard stop
+
+Margin of Safety
+  → Buy if trading 20%+ below intrinsic value
+
+=== SPECIFIC DATA POINT VERIFICATION (Catches ALPEX SOLAR type failures) ===
+
+[ALPEX SOLAR FAILURE CASE: Caught by checking these 8 metrics below]
+
+1. FREE CASH FLOW TREND
+   ✓ Check last 4 quarters: Q1, Q2, Q3, Q4
+   ✓ Pattern: All positive (Operating Cash Flow > Net Income)
+   ❌ RED FLAG: FCF negative for 2+ consecutive quarters
+   ❌ RED FLAG: FCF declining while profit increasing (capex bloat)
+   
+   ALPEX SOLAR Case:
+   - FY24 Q1: ₹7Cr FCF | Q2: ₹2Cr | Q3: -₹1Cr | Q4: -₹7Cr
+   - Pattern: Deteriorating to negative = Warning
+   - Root: Company burning cash, needs future debt
+   - Action: ELIMINATE if FCF < 0 for 2 consecutive quarters
+
+2. DEBT TRAJECTORY ANALYSIS  
+   ✓ Check: Debt (₹49 Cr) → Debt (₹174 Cr) = 3.5x increase in 2 years
+   ✓ Calculate: Debt CAGR and compare to Profit CAGR
+   ❌ RED FLAG: Debt CAGR > Profit CAGR (leverage rising)
+   ❌ RED FLAG: Debt increasing > 30% YoY without profit growth
+   
+   ALPEX SOLAR Case:
+   - FY25 Debt: ₹49 Cr | FY26 Debt: ₹174 Cr = 255% increase
+   - Profit grew 70% but Debt grew 255% = 3.6x mismatch
+   - Reason: Heavy capex (₹825 Cr TOPCon investment)
+   - Action: ELIMINATE if debt growing > 100% while profit growing < 50%
+
+3. SHAREHOLDING PATTERN VERIFICATION
+   ✓ FII Holdings ≥ 5% mandatory
+   ✓ DII Holdings ≥ 5% mandatory
+   ❌ RED FLAG: FII < 5% (smart money absent = risk flag)
+   ❌ RED FLAG: DII < 5% (Indian institutions absent = risk flag)
+   ❌ RED FLAG: Declining promoter buying
+   
+   ALPEX SOLAR Case:
+   - FII: 3.42% (FAILED, need ≥5%)
+   - DII: 0.40% (FAILED, need ≥5%)
+   - Promoters: 68.76% (good)
+   - Pattern: Foreign investors fleeing = Red flag
+   - Action: ELIMINATE if FII+DII < 10% combined
+
+4. OPERATING MARGIN COMPRESSION
+   ✓ Check quarterly OPM for last 8 quarters
+   ✓ Trend: Should be stable ±1% or improving
+   ❌ RED FLAG: Declining > 2% YoY
+   ❌ RED FLAG: Volatility > 3% quarter-to-quarter
+   
+   ALPEX SOLAR Case:
+   - FY25 Q4: OPM 20% | Q1: 20% | Q2: 16% | Q3: 15%
+   - Decline: 20% → 15% = 5% fall in 3 quarters (collapse)
+   - Reason: Pricing pressure in solar module market
+   - Action: ELIMINATE if OPM declining >2% consistently
+
+5. DEBT-TO-EQUITY RATIO VALIDATION
+   ✓ Check: Consolidated D/E
+   ✓ Hard stop: < 0.25 (TIER 1)
+   ❌ RED FLAG: D/E > 0.25
+   ❌ RED FLAG: D/E increasing quarter over quarter
+   
+   ALPEX SOLAR Case:
+   - D/E: 0.36 (FAILED hard stop, limit 0.25)
+   - Rising debt + operating stress = Default risk
+   - Action: ELIMINATE if D/E > 0.25 (non-negotiable)
+
+6. PRICE ACTION vs. FUNDAMENTAL STRENGTH
+   ✓ If fundamentals strong, stock should NOT crash >30% in 6 months
+   ✓ If stock down 40%, either: (a) Market wrong, or (b) Insiders know something
+   ❌ RED FLAG: Stock at 52W low while promoter not buying
+   ❌ RED FLAG: Consistent price decline despite profit growth
+   
+   ALPEX SOLAR Case:
+   - Aug 2025 High: ₹1,450 | Apr 2026 Price: ₹861 = 40% crash
+   - Profit grew but stock crashed = Insiders dumped at high
+   - Question: If growth real, why didn't insiders buy dip?
+   - Action: INVESTIGATE if stock down >30% in 6 months
+           If no promoter buying on dip = ELIMINATE
+
+7. CAPEX & CWIP SIZING
+   ✓ Check: Capex plans (from earnings call)
+   ✓ Check: CWIP size on balance sheet
+   ✓ Ratio: CWIP should be < 20% of total assets
+   ❌ RED FLAG: Large capex, small CWIP = Future debt burden
+   ❌ RED FLAG: CWIP > 25% of assets = Funds locked, productivity delayed
+   
+   ALPEX SOLAR Case:
+   - Capex guidance: ₹825 Cr (TOPCon cell capacity)
+   - CWIP shown: ₹81 Cr = Only 10% deployment
+   - Remaining: ₹744 Cr capex still to deploy = Future debt risk
+   - Impact: Asset base won't reflect in earnings for 2-3 years
+   - Action: ELIMINATE if capex >>₹200Cr without clear ROI
+
+8. PROFIT GROWTH vs. SALES GROWTH DIVERGENCE
+   ✓ Normal: Profit CAGR ≈ Sales CAGR (stable margins)
+   ✓ Good: Profit CAGR significantly > Sales CAGR (margin expansion)
+   ❌ RED FLAG: High sales growth but profit declining = Cost inflation
+   ❌ RED FLAG: Profit CAGR >> Sales CAGR but OPM declining = Accounting trick
+   
+   ALPEX SOLAR Case:
+   - Sales CAGR 3Y: 72%
+   - Profit CAGR 3Y: 378% (5x higher)
+   - BUT Operating Margin: 20% → 14% (decline)
+   - Contradiction: Profit up but margins down = Red flag
+   - Why possible: Revenue recognition timing, one-time gains, depreciation changes
+   - Action: INVESTIGATE if Profit CAGR > 10x Sales CAGR
+
+=== APPROVAL CHECKLIST - MANDATORY SIGN-OFF ===
+
+BEFORE RECOMMENDING ANY STOCK:
+
+[ ] 3-Year Stock Price CAGR ≥ 15%  → Verify explicitly
+[ ] Latest 4-quarter FCF all positive  → Check Cash Flows tab
+[ ] D/E < 0.25 and stable  → Verify Balance Sheet
+[ ] FII ≥ 5% AND DII ≥ 5%  → Check Shareholding Pattern
+[ ] Operating Margin trend not declining  → Check quarterly OPM
+[ ] Debt not rising > 50% in 12 months  → Calculate debt CAGR
+[ ] Stock not down > 30% while promoter absent  → Check price + insider trades
+[ ] CWIP < 20% of assets  → Check balance sheet
+[ ] Profit/Sales divergence explained  → Analyze margin drivers
+[ ] All TIER 1-6 checks passed  → Complete all filters
+
+❌ FAILURE IN ANY CHECKBOX = ELIMINATE IMMEDIATELY ❌
+
+NO EXCEPTIONS. NO RATIONALIZATION. NO "YOLO MODE" OVERRIDE.
+  → Provides buffer against estimation errors
+
+=== KEY MULTIBAGGER INDICATORS ===
+
+✓ Profit CAGR >> Revenue CAGR (Margin expansion - KEY SIGNAL)
+✓ ROCE/ROE improving over time (More efficient)
+✓ Stock price lagging earnings (Valuation catch-up potential)
+✓ Industry tailwinds (Sector growing, company gaining share)
+✓ Promoter buying or increasing holdings (Insider confidence)
+✓ Dividend growing while capex growing (Strong financial position)
+✓ FCF positive and growing (Sustainable growth)
+
+⚠️ WARNING PATTERN ⚠️
+Strong profit growth BUT weak stock returns = VALUATION COMPRESSION
+Example: ELGIEQUIP - Profit CAGR (5Y: 52%, 3Y: 27%) vs Stock CAGR (3Y: 3%)
+→ Shareholders getting NONE of the profit growth
+→ Someone else appropriating the value (promoter, pricing power loss to industry, etc.)
+→ ELIMINATE if 3Y stock return < 15%
+
+=== APPLICATION PROCESS ===
+
+For every stock recommendation:
+1. Check TIER 1 - if any fail → ELIMINATE
+2. Check TIER 2-4 - validate business quality
+3. Check TIER 5 - ensure no red flags
+4. Check TIER 6 - confirm no immediate red flags
+5. Calculate Valuation
+6. FINAL CHECK: Confirm 3Y Stock CAGR ≥ 15%
+7. Only then → RECOMMEND

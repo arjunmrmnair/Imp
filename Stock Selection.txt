@@ -1,0 +1,19 @@
+Public holding < 20 AND 
+Market Capitalization > 1000 AND
+DII holding > 5 AND
+FII holding > 5 AND
+Return on capital employed > 20 AND
+Debt to equity < 1 AND
+Pledged percentage =0  AND
+Profit after tax > 500 AND 
+Return over 3years > 15 AND
+YOY Quarterly sales growth > 1 AND
+YOY Quarterly profit growth > 1 AND
+Price to Earning < 80 AND 
+Current ratio > 1.5 AND
+Interest Coverage Ratio > 3 AND
+Average return on capital employed 5Years > 15 AND
+Average return on equity 5Years > 15 AND
+Sales growth 5Years > 10 AND
+Sales growth >8 AND
+Free cash flow 5years > 0

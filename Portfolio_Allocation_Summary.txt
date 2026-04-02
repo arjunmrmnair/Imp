@@ -1,0 +1,121 @@
+INVESTMENT PORTFOLIO - APRIL 2, 2026
+=====================================
+
+Total Investment: ₹3,00,000
+Target Allocation: 2 Stocks
+
+RECOMMENDATION:
+===============
+
+STOCK 1: POLYCAB INDIA LIMITED (POLYCAB)
+Allocation: ₹1,50,000 (50%)
+Current Price: ₹6,878
+52-Week Range: ₹4,567 - ₹8,724
+Entry Status: 21% Discount from Peak (₹8,724)
+Sector: Cables & Wires / Infrastructure
+
+KEY METRICS:
+- 5-Year Profit CAGR: 20.9%
+- ROCE: 29.72%
+- ROE: 21.4%
+- Debt Status: DEBT-FREE
+- Latest Quarter (Q3 FY26): Sales +46% YoY, Profit +35.87% YoY
+- Free Cash Flow (TTM): ₹853 Crore
+- Market Cap: ₹1,03,475 Crore
+
+PEER RANKING: #1 in organized cables segment (26-27% market share)
+
+TACTICAL LEVELS:
+- Support Level 1: ₹6,200-6,500 (for additional buys if correction extends)
+
+
+STOCK 2: EICHER MOTORS LIMITED (EICHERMOT)
+Allocation: ₹1,50,000 (50%)
+Current Price: ₹6,650
+52-Week Range: ₹5,000 - ₹8,233
+Entry Status: 19% Discount from Peak (₹8,233)
+Sector: Automobiles / 2-Wheelers
+
+KEY METRICS:
+- 5-Year Profit CAGR: 21.0%
+- ROCE: 29.81%
+- ROE: 24.1%
+- Debt Status: DEBT-FREE
+- Latest Quarter (Q3 FY26): Sales +22.94% YoY, Profit +25.12% YoY
+- Free Cash Flow (TTM): ₹2,951 Crore
+- Market Cap: ₹1,82,401 Crore
+
+PEER RANKING: #1 in middleweight motorcycles (Royal Enfield), strong commercial vehicles (VECV)
+
+TACTICAL LEVELS:
+- Support Level 1: ₹6,000-6,300 (for additional buys if correction extends)
+
+
+PORTFOLIO DIVERSIFICATION:
+==========================
+✓ Cross-sector: Infrastructure (Polycab) + Consumer Discretionary (Eicher)
+✓ Different business cycles reduce correlation
+✓ Both debt-free with strong cash generation
+✓ Both >20% profit growth with exceptional ROCE (29%+)
+
+QUALITY METRICS VERIFICATION:
+=============================
+✓ Quarterly Margin Stability: VERIFIED
+  - Polycab OPM: 13% (latest) vs 14% avg → Stable
+  - Eicher OPM: 25% (latest) vs 24% avg → Stable
+
+✓ Red Flags: CLEARED
+  - Promoter Pledge: 0% (both stocks)
+  - FCF Status: Positive (both stocks)
+  - Debt Spikes: None (both deleveraging)
+  - Margin Compression: None >200 bps
+
+✓ Peer Comparison: BEST-IN-CLASS
+  - Polycab vs KEI/Finolex: Superior growth and ROCE
+  - Eicher vs Bajaj/Hero: Best ROCE and growth profile
+
+ALLOCATION STRATEGY:
+====================
+IMMEDIATE ACTION (Today, April 2, 2026):
+- ₹1,50,000 → POLYCAB at ₹6,878
+- ₹1,50,000 → EICHER at ₹6,650
+Total Deployed: ₹3,00,000
+
+TACTICAL ADD OPPORTUNITIES (If Nifty Correction Deepens):
+- Polycab buy target: ₹6,200-6,500 (Additional ₹50K possible)
+- Eicher buy target: ₹6,000-6,300 (Additional ₹50K possible)
+- This keeps dry powder for market dislocations
+
+EXPECTED 5-YEAR RETURNS:
+========================
+- Conservative Estimate: 19-21% annual blended
+- Portfolio Target: ₹3L → ₹7.2-8.9L in 5 years
+- Polycab Upside: 20-24% annual (historical 20.9% with acceleration)
+- Eicher Upside: 19-22% annual (historical 21% + VECV lever)
+
+MONITORING CHECKPOINTS:
+=======================
+- Q1 FY27 Results (July/August 2026): Validate sustained momentum
+- Quarterly Margin Trends: Alert if >200 bps compression
+- FCF Generation: Alert if turns negative
+- Promoter Actions: Monitor shareholding for any pledging activity
+- Sector News: Watch cable demand trends and automotive volumes
+
+DECISION RULES:
+===============
+SELL TRIGGER: Not applicable in 5-year horizon unless:
+  1. Promoter pledging >10% + increasing
+  2. FCF turns negative while profit growing
+  3. ROCE drops below 20% for 2 consecutive quarters
+  4. Major debt spike >50% without clear capex justification
+
+HOLD THROUGH: Normal market corrections <20% from entry
+
+ADD TRIGGER: Market corrections pulling prices toward support levels
+  (₹6,200-6,500 for Polycab, ₹6,000-6,300 for Eicher)
+
+---
+Generated: April 2, 2026
+Analysis Framework: Stock Expert Agent v2.0
+Learned Rules Applied: SE.5, SE.8, SE.9, SE.10, SC.5-8
+Data Source: screener.in (consolidated financials)
