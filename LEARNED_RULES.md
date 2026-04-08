@@ -19,6 +19,17 @@ This document tracks all learned rules across agents and sessions. It serves as 
 
 ## Global Rules (Apply to All Agents)
 
+### TTM Growth Analysis (Priority for Every Decision)
+- **MANDATORY:** Always prioritize Trailing Twelve Month (TTM) values (Sales, Profit, OPM, EPS) for any stock analysis or investment decision.
+- Even if annual or quarterly results are pending, use TTM metrics to identify current momentum.
+- If TTM growth is accelerating (e.g., TTM EPS > 5-Year Average EPS), this must be factored into the final recommendation.
+- **Rule SE.7.2:** Always verify TTM OPM stable or improving before a 'Buy' or 'SIP' signal.
+
+### Session Initialization & Proactive Monitoring
+- **MANDATORY:** At the start of every new session, the agent MUST read `PORTFOLIO_WATCHLIST.md` to identify any upcoming result dates, new concall transcripts, or breaking news events.
+- If today's date matches a "Result Date" or "Board Meeting Date" in the calendar, the agent MUST immediately (proactively) recommend the next action (Buy Tranche, SIP, or Exit) based on the results, even if the user hasn't asked.
+- **News Tracking:** Always check the 'News' and 'Concalls' section on Screener.in for all holdings by clicking on the company name. Any negative impact > 5% must be flagged with a 'Next Action' recommendation.
+
 ### Data Verification
 - **MANDATORY:** Before suggesting ANY stock, fetch and verify latest data from screener.in (consolidated financials, quarterly results, balance sheet, cash flows, ratios)
 - Always verify critical numbers (PE, debt ratios, growth rates) across at least 2 sources
