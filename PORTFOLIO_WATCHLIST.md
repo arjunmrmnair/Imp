@@ -1,16 +1,28 @@
-# Super 5 + 2 Portfolio Watchlist & Result Calendar (FY 2026-27)
+# Super 8 + 1 Portfolio Watchlist & Result Calendar (FY 2026-27)
 
 **Goal:** Proactive monitoring of results, concalls, and breaking news.
 
 | Stock (Ticker) | Expected Q4 FY26 Result Date | Latest Concall Date | Latest News Sentiment | Next Action Trigger |
 | :--- | :--- | :--- | :--- | :--- |
-| **APARINDS** | May 2026 (TBD) | Feb 2026 | **Neutral/Positive** | Buy Tranche 1 Now |
-| **POLYCAB** | May 2026 (TBD) | Jan 2026 | **Positive** (Uniglobus Merger) | Buy Tranche 1 Now |
-| **EICHERMOT** | May 2026 (TBD) | Feb 2026 | **Strong Positive** (1M Sales) | Buy Tranche 1 Now |
-| **NAM-INDIA** | **April 27, 2026** | Jan 2026 | **Positive** (DWS Deal) | Monitor for SIP Trigger |
-| **BEL** | May 2026 (TBD) | Feb 2026 | **Strong Positive** (₹74k Cr Orders)| Buy Tranche 1 Now |
-| **ALPEXSOLAR** | May 2026 (TBD) | Feb 2026 | **Strong Positive** (2.2 GW TOPCon)| Buy Tranche 1 Now |
-| **DYCL** | May 2026 (TBD) | Jan 2026 | **Positive** (Order book ₹780 Cr) | Buy Tranche 1 Now |
+| **APARINDS** | May 2026 (TBD) | Feb 2026 | **Strong Positive** ($5M US) | Buy Tranche 1 Now |
+| **POLYCAB** | **April 29, 2026** | Jan 2026 | **Positive** (Data Centers) | Hold; Monitor results |
+| **EICHERMOT** | May 2026 (TBD) | Feb 2026 | **Strong Positive** (1.2M Sales)| Hold; Monitor results |
+| **NAM-INDIA** | **April 27, 2026** | Jan 2026 | **Massive Bullish** (OI Surge) | Top-up to 50% Now |
+| **BEL** | May 2026 (TBD) | Feb 2026 | **Strong Positive** (Radar Unit) | Hold; Monitor results |
+| **ECLERX** | **April 27, 2026** | Jan 2026 | **Positive** (Stake Increase) | Buy Tranche 1 Now |
+| **ALPEXSOLAR** | May 2026 (TBD) | Feb 2026 | **Positive** (Renewable wave) | Buy Tranche 1 Now |
+| **DYCL** | May 2026 (TBD) | Jan 2026 | **Strong Positive** (Sanand Plan)| Hold; Already at 88% goal |
+| **ADANIPOWER**| **April 29, 2026** | March 2026 | **Positive** (2500 MW Win) | **HOLD.** Target ₹760. |
+
+---
+
+## The "Result-Day Showdown" (Probation List)
+These stocks are on watch. We only keep them if their results meet the following "Elite" targets:
+
+| Stock (Ticker) | Expected Result Date | Target Metric to Keep | Verdict Criteria |
+| :--- | :--- | :--- | :--- |
+| **KEI** | May 2026 (TBD) | Revenue Growth > 15% | If < 15%, Sell and move to **POLYCAB**. |
+| **PERSISTENT** | April 2026 (TBD) | OPM > 14.5% | If < 14%, Sell and move to **ECLERX**. |
 
 ---
 

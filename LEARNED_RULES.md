@@ -19,6 +19,31 @@ This document tracks all learned rules across agents and sessions. It serves as 
 
 ## Global Rules (Apply to All Agents)
 
+### Structural Wealth-Builder Rule (Owner's Mindset)
+- **MANDATORY:** Always align analysis with the user's **20-year time horizon**. 
+- Never suggest an "Exit" based on short-term brokerage price targets or "trader logic."
+- **Exit Triggers:** Only suggest an exit if there is a **Structural Failure** (loss of moat, permanent margin collapse, or governance fraud).
+- **The "Build Cycle" Check:** Before flagging a profit dip, check **CWIP (Capital Work In Progress)**. If CWIP is rising, the company is building future wealth; a temporary profit dip due to capex is a "Buy/Hold" signal, not a "Sell" signal.
+
+### Real Profit Verification (CFO vs. PAT)
+- **MANDATORY:** Never trust "Net Profit" alone. Always compare it to **Cash Flow from Operations (CFO)**.
+- If CFO is significantly higher than PAT (as in Adani Power), the company is a "Cash Machine" regardless of optical profit dips.
+- **Rule SE.7.4:** Check for "One-time Base Effects." A profit dip caused by a "High Base" from last year's one-time gains is an **Optical Dip** and must be ignored in 20-year analysis.
+
+### Two-Tranche Execution Rule (50/50)
+- **MANDATORY:** All new stock entries or major portfolio rebalances must follow a **50/50 Tranche Strategy**.
+- **Tranche 1 (50%):** Deploy immediately (Market Order) to get "Skin in the Game" based on TTM momentum.
+- **Tranche 2 (50%):** Hold in Liquidcase (The "Sniper Ammo").
+- **Tranche 2 (Buy the Dip) Execution Framework (ZERO MISTAKE PROTOCOL):**
+    When analyzing a market fall or when the user has fresh capital, the agent MUST perform the following steps:
+    1.  **Calculate % Fall:** Fetch live CMP and compare it to the user's Average Buy Price (or 52-week high if no buy price exists). Identify stocks that have fallen ≥ 10%.
+    2.  **The "Structural Check":** Before deploying cash into a fallen stock, verify that the fall is NOT due to a structural failure (e.g., fraud, permanent margin collapse). Check the latest news/concalls. If the TTM CFO is still strong and CWIP is intact, it is a "Healthy Dip."
+    3.  **Prioritization:** If multiple stocks fall, prioritize capital allocation in this order:
+        - Priority 1: "Forever Moats" (Apar, Polycab, Eicher, BEL, Adani Power) trading at >15% discount.
+        - Priority 2: "Strategic Compounders" (eClerx, NAM-INDIA) with upcoming result triggers.
+        - Priority 3: "Catalyst/Multibagger" (Alpex, DYCL) ONLY IF the specific catalyst (e.g., new plant) is still on track.
+    4.  **Capital Allocation Math:** Ask the user for their total available cash (or read Liquidcase balance). Allocate funds to bring the most heavily discounted "Priority 1" stocks up to their target portfolio weights (e.g., Apar max 30%, Polycab max 20%). DO NOT over-allocate to a single stock just because it fell the most.
+
 ### TTM Growth Analysis (Priority for Every Decision)
 - **MANDATORY:** Always prioritize Trailing Twelve Month (TTM) values (Sales, Profit, OPM, EPS) for any stock analysis or investment decision.
 - Even if annual or quarterly results are pending, use TTM metrics to identify current momentum.
@@ -60,7 +85,10 @@ This document tracks all learned rules across agents and sessions. It serves as 
 - Rule SE.6: YoY sales growth >20% requires explanation: organic growth? Capacity expansion? Acquisition?
 - Rule SE.7: Check EPS quality: ensure earnings not driven by one-time gains or other income. YoY EPS growth should happen - This is very Important
 - Rule SE.7.1:For any stock always check the concalls from screener.comfor your analysis.Check for RED Flags if any.
-
+- **Rule SE.7.3: EPS Quality & Acceleration Check:**
+  - Verify that TTM EPS is accelerating (1Y > 3Y > 5Y pattern).
+  - Check the "Other Income" component in Net Profit; if it exceeds 15% of PBT, the EPS quality is "Low."
+  - Compare EPS growth against Operating Cash Flow growth; if EPS grows but Cash Flow falls, the EPS is "Low Quality."
 
 ### Investment Recommendations
 - Rule SE.8: Always provide specific allocation; e.g., "₹1.5L in X Stock, ₹1.5L in Y Stock" not vague percentages.This is sample dont us this .Do your analysis.
