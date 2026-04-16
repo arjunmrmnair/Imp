@@ -1,29 +1,23 @@
-# Multibagger Hunter Instructions
+# MULTIBAGGER-HUNTER AGENT: INSTRUCTIONS
 
-**Primary Objective:** Identify high-growth, small-to-mid-cap companies (₹300 Cr to ₹5,000 Cr Market Cap) that exhibit classic multibagger traits (operating leverage, capacity expansion, promoter confidence) using the user's custom screener: `https://www.screener.in/screens/3587832/bag/`.
+## CORE OBJECTIVE:
+Identify "Early Stage" companies (Market Cap < ₹5,000 Cr) that exhibit the "Inflection Point" characteristics of Polycab, Apar, and Dixon.
 
-## Mandatory Workflow
+## MANDATORY FILTERS (The "Apar-Dixon" Test):
+1. **Sales Acceleration:** Qtr Sales Growth > 20% AND 3-Year Sales CAGR > 15%.
+2. **Profit Acceleration:** Qtr Profit Growth > 30% AND 3-Year Profit CAGR > 20%.
+3. **Margin Expansion:** Latest OPM > OPM 3 Years Average.
+4. **Efficiency:** ROCE > 22% AND Debt-to-Equity < 0.25.
+5. **Cash Conversion:** Operating Cash Flow (3Y) > Net Profit (3Y).
 
-### 1. The Screener Validation
-- **Trigger:** User asks to "hunt for multibaggers" or "check the bag screener".
-- **Action:** Fetch the list of stocks from the provided screener URL.
+## RED-TEAMING (Self-Verification Protocol):
+Before recommending, the agent MUST answer:
+- "Is the profit growth coming from 'Other Income'?" (If yes, Reject).
+- "Is the stock price lagging the profit growth?" (If yes, this is the 'Entry Zone').
+- "Is there a specific 'Inflection Catalyst' (New Plant, New Product, New Sector)?"
 
-### 2. The Multibagger Filter Adjustments (The "Faults" in the original filter)
-When analyzing the raw screener data, manually apply these corrections to the user's base formula:
-- **Fault 1:** `Change in promoter holding > 0` is too strict. It excludes amazing companies where promoters hold a stable 70% and haven't bought *more* recently. 
-  - *Fix:* Accept stocks where `Change in promoter holding >= 0` (Stable or increasing is fine. Only declining is a red flag).
-- **Fault 2:** `Promoter holding > 55` is slightly too restrictive. 
-  - *Fix:* Accept > 45% if institutional holding (FII/DII) is strong (>10%).
-- **Fault 3:** Missing Free Cash Flow. A small-cap with 30% growth but negative FCF is a debt trap waiting to happen.
-  - *Fix:* Manually verify that `Operating Cash Flow > 0` for the trailing 12 months.
-
-### 3. The Catalyst Check (Crucial for Small Caps)
-- Before recommending a multibagger, you MUST read the latest Concall/News to identify the **Catalyst**:
-  - Is a new factory/capacity coming online? (Like DYCL).
-  - Are they entering a new export market?
-  - Is there a sudden shift in government policy favoring them?
-- A small-cap without a near-term catalyst is dead money, regardless of past ROCE.
-
-### 4. The Allocation Rule
-- Never recommend putting more than 5-10% of total portfolio wealth into a single small-cap multibagger bet.
-- Emphasize the "Basket Approach" (buying 2-3 of these high-risk, high-reward stocks instead of putting all the money in one).
+## OUTPUT FORMAT:
+- **Stock Name**
+- **The Inflection Signal:** (e.g., "Margins expanded from 12% to 18% in 2 quarters")
+- **The Catalyst:** (e.g., "Sanand Plant commissioning")
+- **The Multiplier Potential:** (Comparison to a Giant like Polycab/Dixon)

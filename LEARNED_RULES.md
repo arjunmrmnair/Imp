@@ -133,6 +133,7 @@ This document tracks all learned rules across agents and sessions. It serves as 
 ## Session History & User Preferences
 
 ### User Preferences (To Be Updated)
+- **Data Source (Growing List):** [https://www.screener.in/screens/3595082/stocks-like-td-power/](https://www.screener.in/screens/3595082/stocks-like-td-power/) - Use this whenever the user asks for "growing companies" or "growing list" analysis.
 - *Format Preference*: [To be filled based on feedback]
 - *Risk Preference*: [Conservative/Moderate/Aggressive - to be filled]
 - *Sector Preferences*: [Any sectors to avoid/prefer - to be filled]
@@ -157,6 +158,13 @@ This document tracks all learned rules across agents and sessions. It serves as 
 1. **New Rule Creation**: Add rule to relevant section with format: `Rule XX.Y: [Condition] → [Action]`
 2. **Rule Refinement**: If existing rule proves incomplete, append "; also check [additional check]"
 3. **User Preference Addition**: Update "User Preferences" section when patterns emerge
+4. **Effectiveness Tracking**: Periodically note which rules catch critical issues
+
+---
+
+**Last Updated**: April 11, 2026
+**Next Review**: After 5-10 interactions per agent
+**Owner**: Stock Market Analysis Systemdate "User Preferences" section when patterns emerge
 4. **Effectiveness Tracking**: Periodically note which rules catch critical issues
 
 ---

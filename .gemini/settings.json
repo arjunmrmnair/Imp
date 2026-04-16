@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "mempalace": {
+      "command": "/absolute/path/to/mempalace/.venv/bin/python3",
+      "args": [
+        "\\"
+      ]
+    }
+  },
+  "hooks": {
+    "PreCompress": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/absolute/path/to/mempalace/hooks/mempal_precompact_hook.sh"
+          }
+        ]
+      }
+    ]
+  }
+  
+}

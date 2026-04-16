@@ -12,7 +12,11 @@
 | **ECLERX** | **April 27, 2026** | Jan 2026 | **Positive** (Stake Increase) | Buy Tranche 1 Now |
 | **ALPEXSOLAR** | May 2026 (TBD) | Feb 2026 | **Positive** (Renewable wave) | Buy Tranche 1 Now |
 | **DYCL** | May 2026 (TBD) | Jan 2026 | **Strong Positive** (Sanand Plan)| Hold; Already at 88% goal |
-| **ADANIPOWER**| **April 29, 2026** | March 2026 | **Positive** (2500 MW Win) | **HOLD.** Target ₹760. |
+| **ADANIPOWER**| **April 29, 2026** | March 2026 | **Bullish** (New 52W High) | **HOLD.** TP: ₹210. SL: ₹180 (Book 50% Profit). |
+| **BONDADA**    | May 2026 (TBD)      | Jan 2026    | **Positive** (Adani Win)   | **WATCH.** Buy on 10% Dip (₹950). |
+| **INA**        | May 2026 (TBD)      | Feb 2026    | **Positive** (Main Board)  | **WATCH.** Buy on 10% Dip (₹122). |
+| **SOLARWORLD** | May 2026 (TBD)      | Jan 2026    | **Neutral** (Capex Phase)  | **WATCH.** Wait for June BESS News. |
+| **NATIONALUM**| **May 2026 (TBD)** | Feb 2026 | **Strong Positive** (Record Output)| **WATCHLIST.** Check results for entry. |
 
 ---
 
@@ -21,8 +25,9 @@ These stocks are on watch. We only keep them if their results meet the following
 
 | Stock (Ticker) | Expected Result Date | Target Metric to Keep | Verdict Criteria |
 | :--- | :--- | :--- | :--- |
-| **KEI** | May 2026 (TBD) | Revenue Growth > 15% | If < 15%, Sell and move to **POLYCAB**. |
-| **PERSISTENT** | April 2026 (TBD) | OPM > 14.5% | If < 14%, Sell and move to **ECLERX**. |
+| **KEI** | May 2026 (TBD) | Revenue Growth > 15% | If < 15%, Sell and move to **NATIONALUM/POLYCAB**. |
+| **PERSISTENT** | April 2026 (TBD) | OPM > 14.5% | If < 14.5%, Sell and move to **NATIONALUM/ECLERX**. |
+| **NATIONALUM** | May 2026 (TBD) | OPM > 40% + Volume Growth | If passes, invest ₹25,000 (Tranche 1). |
 
 ---
 
