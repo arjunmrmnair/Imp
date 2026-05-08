@@ -136,7 +136,7 @@ All learned rules are maintained centrally in `LEARNED_RULES.md` for consistency
 
 ### 1.2 Financial Viability
 - **Market Capitalization ≥ ₹1,000 Cr**
-- **Profit After Tax (PAT) ≥ ₹500 Cr**
+- **Profit After Tax (PAT) ≥ ₹120 Cr**
 - **ROCE > 20%** (Return on Capital Employed)
 - **ROE > 15%** (5-Year Average minimum)
 - **Debt-to-Equity < 0.25**
@@ -220,6 +220,34 @@ All learned rules are maintained centrally in `LEARNED_RULES.md` for consistency
 ❌ Revenue declining YoY  
 ❌ ROCE trending downward  
 ❌ Market share declining  
+
+---
+
+## TIER 6: BEST ENTRY POINT ANALYSIS (The "Sniper" Methodology)
+
+**BEFORE recommending an entry, perform this 5-step validation:**
+
+### 6.1 The "Healthy Dip" Check
+- **Formula:** `(52W High - CMP) / 52W High * 100`
+- **Target:** 10% to 25% correction from the high for "Lifetime Moats."
+- **Logic:** If a stock is at 52W High, recommend "Tranche 1 (25%)" or wait. If it's down >30%, re-verify TIER 5 (Red Flags).
+
+### 6.2 Valuation Mean Reversion
+- **Check:** Compare current P/E with 3-year and 5-year Median P/E on Screener.in.
+- **Entry Signal:** Current P/E ≤ 5Y Median P/E + 10%. 
+- **Avoid:** Current P/E > 1.5x of 5Y Median P/E (indicates a bubble/hype).
+
+### 6.3 Earnings-Price Divergence (The "Spring" Effect)
+- **Compare:** 1-Year Profit Growth vs 1-Year Stock Price Return.
+- **Entry Signal:** Profit Growth > Stock Return. (Indicative of valuation compression; stock is becoming cheaper as it grows).
+
+### 6.4 Institutional Fingerprint
+- **Check:** Shareholding pattern for last 2 quarters.
+- **Signal:** Increasing FII or DII holding during a price correction = High Conviction Entry.
+
+### 6.5 Support Level Identification
+- **Check:** Identify the "Floor" (price where it bounces).
+- **Signal:** Accumulate near 200-day EMA or recent 6-month consolidation zone.
 
 ---
 

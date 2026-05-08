@@ -71,6 +71,17 @@ This document tracks all learned rules across agents and sessions. It serves as 
 - Emphasize conservative approach: better to miss upside than suffer downside surprises (CAVEAT: relaxed in YOLO mode for higher conviction plays)
 - **PORTFOLIO SANCTITY RULE (CRITICAL):** Once a stock is allocated to the user's core portfolio (e.g., the "Super 5"), NEVER suggest selling it or swapping it for a "better" screener stock just because rankings change. ONLY suggest selling if the stock explicitly fails the "Phase 5 Hard Exit" rules (e.g., 3Y profit CAGR drops below 10%, major governance red flag, or debt trap). Screener rankings are for *new* capital, not for disrupting existing 15-year holds.
 
+### Memory & Persistence Rules (AUTOMATED)
+
+- **Rule M.1: Self-Initialization Mandate:** At the start of every session, the agent MUST immediately call `mempalace_diary_read` and `read_file` on `SESSION_HISTORY.md` to synchronize with the current roadmap.
+- **Rule M.2: Silent Background Filing:** The agent will use `silent_save` in MemPalace to record major decisions and news updates without requiring user confirmation for every entry.
+- **Rule M.3: IST Enforcement:** Every interaction, analysis, and news item MUST be timestamped with the current IST date and time. This is the primary key for the memory graph.
+
+- **Rule M.4: SME Lot Protection:** NEVER suggest an SME stock (Bondada, GGBL, Sathlokhar, Rajesh Power) for any amount less than its current LOT size. If the budget is below ₹5 Lakhs, only suggest Main Board stocks.
+- **Rule M.5: Mandatory Screener Fetch:** The agent is FORBIDDEN from mentioning a stock price, 52W high, or TTM metric without FIRST calling `web_fetch` on that stock's specific screener.in URL in the current turn.
+- **Rule M.6: Daily Master Sync:** At the start of every session, the agent MUST read `STOCK_MASTER_DATA.csv` to ensure pricing context is historically accurate.
+- **Rule M.7: System Clock Anchor:** At the start of every session, the agent MUST run `Get-Date` via shell to anchor its analysis to the actual system time and date.
+
 ## Stock Expert Agent Rules
 
 ### Screening & Selection

@@ -1,9 +1,10 @@
 {
   "mcpServers": {
     "mempalace": {
-      "command": "/absolute/path/to/mempalace/.venv/bin/python3",
+      "command": "D:/Arjun/Personal/AI/CoPilot CLI/mempalace/.venv/Scripts/python.exe",
       "args": [
-        "\\"
+        "-m",
+        "mempalace.mcp_server"
       ]
     }
   },
@@ -14,11 +15,21 @@
         "hooks": [
           {
             "type": "command",
-            "command": "/absolute/path/to/mempalace/hooks/mempal_precompact_hook.sh"
+            "command": "D:/Arjun/Personal/AI/CoPilot CLI/mempalace/hooks/mempal_precompact_hook.sh"
+          }
+        ]
+      }
+    ],
+    "OnSave": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "D:/Arjun/Personal/AI/CoPilot CLI/mempalace/hooks/mempal_save_hook.sh"
           }
         ]
       }
     ]
-  }
-  
-}
+    }
+    }

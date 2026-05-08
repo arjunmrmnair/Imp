@@ -39,6 +39,13 @@ The system is currently optimized for **YOLO Mode** (Default), which emphasizes 
 5.  **Recommendation**: Generate detailed reports with proof of correctness, specific allocation advice (e.g., ₹ amounts), and timing guidance.
 
 ## Usage Guidelines
+
+### Persistent Memory Protocol (MANDATORY)
+- **Self-Initialization:** At the start of EVERY session, the agent MUST call `mempalace_diary_read` (agent: Gemini CLI) and `mempalace_kg_query` (entity: Super 8 Portfolio) to synchronize with the current roadmap.
+- **Structured Knowledge:** Every finalized trade decision (Buy/Sell/Target) MUST be added to the Knowledge Graph using `mempalace_kg_add`. Do not rely solely on drawers or diary entries.
+- **Silent Archiving:** Use `mempalace_diary_write` to store session summaries at the end of every significant interaction.
+- **IST Enforcement:** All memory entries must be timestamped with the current IST date and time.
+
 - **YOLO Mode**: Unless "Conservative" or "Defensive" mode is requested, the system defaults to aggressive growth focus (relaxed ROCE/Debt thresholds but strict data discipline).
 - **Updates**: When the user provides feedback or corrections, the `LEARNED_RULES.md` file must be updated to ensure the system "learns" from every interaction.
 - **Data Freshness**: Always fetch the latest quarterly and annual data before making recommendations.
