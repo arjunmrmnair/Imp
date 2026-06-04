@@ -1,0 +1,1836 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - text:      
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - link "Screener Logo" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - img "Screener Logo" [ref=e9]
+        - generic [ref=e10]:
+          - link "Home" [ref=e11] [cursor=pointer]:
+            - /url: /
+          - link "Screens" [ref=e12] [cursor=pointer]:
+            - /url: /explore/
+          - button "Tools " [ref=e14] [cursor=pointer]:
+            - text: Tools
+            - generic [ref=e15]: 
+      - generic [ref=e16]:
+        - generic [ref=e18]:
+          - generic: 
+          - searchbox "Search for a company" [ref=e19]
+        - generic [ref=e20]:
+          - link " Login" [ref=e21] [cursor=pointer]:
+            - /url: /login/?
+            - generic [ref=e22]: 
+            - text: Login
+          - link "Get free account" [ref=e23] [cursor=pointer]:
+            - /url: /register/?
+  - generic [ref=e24]:
+    - text:  
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - link "HBL Engineering" [ref=e28] [cursor=pointer]:
+          - /url: "#top"
+        - link "Chart" [ref=e29] [cursor=pointer]:
+          - /url: "#chart"
+        - link "Analysis" [ref=e30] [cursor=pointer]:
+          - /url: "#analysis"
+        - link "Peers" [ref=e31] [cursor=pointer]:
+          - /url: "#peers"
+        - link "Quarters" [ref=e32] [cursor=pointer]:
+          - /url: "#quarters"
+        - link "Profit & Loss" [ref=e33] [cursor=pointer]:
+          - /url: "#profit-loss"
+        - link "Balance Sheet" [ref=e34] [cursor=pointer]:
+          - /url: "#balance-sheet"
+        - link "Cash Flow" [ref=e35] [cursor=pointer]:
+          - /url: "#cash-flow"
+        - link "Ratios" [ref=e36] [cursor=pointer]:
+          - /url: "#ratios"
+        - link "Investors" [ref=e37] [cursor=pointer]:
+          - /url: "#shareholding"
+        - link "Documents" [ref=e38] [cursor=pointer]:
+          - /url: "#documents"
+      - generic [ref=e39]:
+        - button " Notebook" [ref=e40] [cursor=pointer]:
+          - generic [ref=e41]: 
+          - text: Notebook
+        - button " AI" [ref=e42] [cursor=pointer]:
+          - generic [ref=e43]: 
+          - text: AI
+  - main [ref=e44]:
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - generic [ref=e47]:
+          - heading "HBL Engineering Ltd" [level=1] [ref=e48]
+          - generic [ref=e50]: 
+          - generic [ref=e51]:
+            - generic [ref=e52]:
+              - generic [ref=e53]: ₹ 797
+              - generic [ref=e54]:
+                - generic [ref=e55]: 
+                - text: 1.32%
+            - generic [ref=e56]: 04 Jun - close price
+        - generic [ref=e57]:
+          - button "Export to Excel" [ref=e58] [cursor=pointer]:
+            - generic [ref=e59]: 
+            - text: Export to Excel
+          - button " Follow" [ref=e61] [cursor=pointer]:
+            - generic [ref=e62]: 
+            - text: Follow
+      - generic [ref=e63]:
+        - link " hbl.in" [ref=e64] [cursor=pointer]:
+          - /url: http://www.hbl.in
+          - generic [ref=e65]: 
+          - text: hbl.in
+        - 'link " BSE: 517271" [ref=e66] [cursor=pointer]':
+          - /url: https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/HBLENGINE/517271/
+          - generic [ref=e67]: 
+          - text: "BSE: 517271"
+        - 'link " NSE: HBLENGINE" [ref=e68] [cursor=pointer]':
+          - /url: https://www.nseindia.com/get-quotes/equity?symbol=HBLENGINE
+          - generic [ref=e69]: 
+          - text: "NSE: HBLENGINE"
+      - generic [ref=e70]:
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - generic [ref=e73]: About
+            - paragraph [ref=e75]:
+              - text: Incorporated in 1983, HBL Power System Ltd manufactures and services different types of batteries, e-mobility, and other products
+              - superscript [ref=e76]:
+                - link "[1]" [ref=e77] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/bseplus/AnnualReport/517271/75551517271.pdf#page=16
+            - generic [ref=e78]: Key Points
+            - paragraph [ref=e80]:
+              - strong [ref=e81]: Business Segments
+              - superscript [ref=e82]:
+                - link "[1]" [ref=e83] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/xml-data/corpfiling/AttachHis/8867270e-616f-4352-9592-cc4e30cd1cfb.pdf#page=272
+              - superscript [ref=e84]:
+                - link "[2]" [ref=e85] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/xml-data/corpfiling/AttachHis/83e65e50-2435-4498-8f48-307c43871afc.pdf#page=230
+              - strong [ref=e86]: "1) Industrial Batteries (71% in FY25 vs 74% in FY23):"
+              - strong [ref=e87]: a) Lead Batteries (VRLA & PLT)
+              - text: serving telecom, railways, UPS, & data servers & defence.
+              - strong [ref=e88]: b) Nickel-Cadmium Batteries
+              - text: It secured second position in the global market. Strong domestic demand was driven by growth in the oil & gas & power sectors. Exports grew by 40%, led by new OEM and EPC clients, especially in the Middle East.
+              - strong [ref=e89]: c) Lithium Batteries
+              - text: Lithium batteries are becoming price competitive with industrial VRLA, hence VRLA will gradually lose market share in prime sectors. Key clients include Vande Bharat trains, Siemens Germany, global defence forces, and the Indian defence for future undersea vessel projects. The segment grew by 37% in FY25 from FY23.
+              - superscript [ref=e90]:
+                - link "[3]" [ref=e91] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/xml-data/corpfiling/AttachHis/8867270e-616f-4352-9592-cc4e30cd1cfb.pdf#page=8
+              - superscript [ref=e92]:
+                - link "[4]" [ref=e93] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/xml-data/corpfiling/AttachHis/8867270e-616f-4352-9592-cc4e30cd1cfb.pdf#page=11
+            - button "Read More " [ref=e95] [cursor=pointer]:
+              - text: Read More
+              - generic [ref=e96]: 
+          - text:   
+        - generic [ref=e97]:
+          - list [ref=e98]:
+            - listitem [ref=e99]:
+              - generic [ref=e100]: Market Cap
+              - generic [ref=e101]: ₹ 22,083 Cr.
+            - listitem [ref=e102]:
+              - generic [ref=e103]: Current Price
+              - generic [ref=e104]: ₹ 797
+            - listitem [ref=e105]:
+              - generic [ref=e106]: High / Low
+              - generic [ref=e107]: ₹ 1,122 / 552
+            - listitem [ref=e108]:
+              - generic [ref=e109]: Stock P/E
+              - generic [ref=e110]: "26.4"
+            - listitem [ref=e111]:
+              - generic [ref=e112]: Book Value
+              - generic [ref=e113]: ₹ 79.9
+            - listitem [ref=e114]:
+              - generic [ref=e115]: Dividend Yield
+              - generic [ref=e116]: 0.25 %
+            - listitem [ref=e117]:
+              - generic [ref=e118]: ROCE
+              - generic [ref=e119]: 58.4 %
+            - listitem [ref=e120]:
+              - generic [ref=e121]: ROE
+              - generic [ref=e122]: 45.3 %
+            - listitem [ref=e123]:
+              - generic [ref=e124]: Face Value
+              - generic [ref=e125]: ₹ 1.00
+          - generic [ref=e126]:
+            - generic [ref=e127]: Add ratio to table
+            - generic [ref=e128]:
+              - textbox "Add ratio to table" [ref=e130]:
+                - /placeholder: eg. Promoter holding
+              - link " Edit ratios" [ref=e131] [cursor=pointer]:
+                - /url: /user/quick_ratios/?next=/company/HBLENGINE/consolidated/
+                - generic [ref=e132]: 
+                - text: Edit ratios
+    - generic [ref=e133]:
+      - generic [ref=e134]:
+        - generic [ref=e135]:
+          - button "1M" [ref=e136] [cursor=pointer]
+          - button "6M" [ref=e137] [cursor=pointer]
+          - button "1Yr" [ref=e138] [cursor=pointer]
+          - button "3Yr" [ref=e139] [cursor=pointer]
+          - button "5Yr" [ref=e140] [cursor=pointer]
+          - button "10Yr" [ref=e141] [cursor=pointer]
+          - button "Max" [ref=e142] [cursor=pointer]
+        - generic [ref=e143]:
+          - generic [ref=e144]:
+            - button "Price" [ref=e145] [cursor=pointer]
+            - button "PE Ratio" [ref=e146] [cursor=pointer]
+            - button "More " [ref=e148] [cursor=pointer]:
+              - text: More
+              - generic [ref=e149]: 
+          - button "Add alerts for company" [ref=e150] [cursor=pointer]:
+            - generic [ref=e151]: 
+            - generic [ref=e152]: Alerts
+      - generic [ref=e153]:
+        - generic:
+          - generic: Volume
+        - generic:
+          - generic: Price on NSE
+      - generic [ref=e157]:
+        - generic [ref=e158] [cursor=pointer]:
+          - checkbox "Price on NSE" [checked] [ref=e159]: ✓
+          - generic [ref=e160]: Price on NSE
+        - generic [ref=e161] [cursor=pointer]:
+          - checkbox "50 DMA" [ref=e162]
+          - generic [ref=e163]: 50 DMA
+        - generic [ref=e164] [cursor=pointer]:
+          - checkbox "200 DMA" [ref=e165]
+          - generic [ref=e166]: 200 DMA
+        - generic [ref=e167] [cursor=pointer]:
+          - checkbox "Volume" [checked] [ref=e168]: ✓
+          - generic [ref=e169]: Volume
+    - generic [ref=e170]:
+      - generic [ref=e171]:
+        - generic [ref=e172]:
+          - paragraph [ref=e173]: Pros
+          - list [ref=e174]:
+            - listitem [ref=e175]: Company is almost debt free.
+            - listitem [ref=e176]: Company is expected to give good quarter
+            - listitem [ref=e177]: Company has delivered good profit growth of 118% CAGR over last 5 years
+            - listitem [ref=e178]: "Company has a good return on equity (ROE) track record: 3 Years ROE 33.1%"
+        - generic [ref=e179]:
+          - paragraph [ref=e180]: Cons
+          - list [ref=e181]:
+            - listitem [ref=e182]: Stock is trading at 9.96 times its book value
+      - paragraph [ref=e183]:
+        - text: "* The pros and cons are machine generated."
+        - generic [ref=e185]: 
+    - generic [ref=e186]:
+      - generic [ref=e187]:
+        - generic [ref=e188]:
+          - heading "Peer comparison" [level=2] [ref=e189]
+          - paragraph [ref=e190]:
+            - generic [ref=e191]: 
+            - link "Industrials" [ref=e192] [cursor=pointer]:
+              - /url: /market/IN07/
+            - generic [ref=e193]: 
+            - generic [ref=e194]: 
+            - link "Capital Goods" [ref=e195] [cursor=pointer]:
+              - /url: /market/IN07/IN0702/
+            - generic [ref=e196]: 
+            - generic [ref=e197]: 
+            - link "Industrial Products" [ref=e198] [cursor=pointer]:
+              - /url: /market/IN07/IN0702/IN070205/
+            - generic [ref=e199]: 
+            - generic [ref=e200]: 
+            - link "Other Industrial Products" [ref=e201] [cursor=pointer]:
+              - /url: /market/IN07/IN0702/IN070205/IN070205012/
+          - paragraph [ref=e202]:
+            - text: Part of
+            - link "BSE 500" [ref=e203] [cursor=pointer]:
+              - /url: /company/1005/
+            - link "Nifty 500" [ref=e204] [cursor=pointer]:
+              - /url: /company/CNX500/
+            - link "Nifty Smallcap 100" [ref=e205] [cursor=pointer]:
+              - /url: /company/CNXSMALLCA/
+            - link "BSE Industrials" [ref=e206] [cursor=pointer]:
+              - /url: /company/1163/
+            - link "BSE 250 SmallCap Index" [ref=e207] [cursor=pointer]:
+              - /url: /company/1180/
+            - button "show all" [ref=e208] [cursor=pointer]
+        - link " Edit Columns" [ref=e210] [cursor=pointer]:
+          - /url: /user/columns/?next=/company/HBLENGINE/consolidated/#peers
+          - generic [ref=e211]: 
+          - text: Edit Columns
+      - table [ref=e215]:
+        - rowgroup [ref=e216]:
+          - row "S.No. Name CMP Rs. P/E Mar Cap Rs.Cr. Div Yld % NP Qtr Rs.Cr. Qtr Profit Var % Sales Qtr Rs.Cr. Qtr Sales Var % ROCE %" [ref=e217]:
+            - columnheader "S.No." [ref=e218]
+            - columnheader "Name" [ref=e219]
+            - columnheader "CMP Rs." [ref=e220]
+            - columnheader "P/E" [ref=e221]: P/E
+            - columnheader "Mar Cap Rs.Cr." [ref=e222]
+            - columnheader "Div Yld %" [ref=e223]
+            - columnheader "NP Qtr Rs.Cr." [ref=e224]
+            - columnheader "Qtr Profit Var %" [ref=e225]
+            - columnheader "Sales Qtr Rs.Cr." [ref=e226]
+            - columnheader "Qtr Sales Var %" [ref=e227]
+            - columnheader "ROCE %" [ref=e228]
+          - row "1. PTC Industries 18594.00 274.93 27921.78 0.00 59.91 140.02 225.47 84.93 8.43" [ref=e229]:
+            - cell "1." [ref=e230]
+            - cell "PTC Industries" [ref=e231]:
+              - link "PTC Industries" [ref=e232] [cursor=pointer]:
+                - /url: /company/PTCIL/consolidated/
+            - cell "18594.00" [ref=e233]
+            - cell "274.93" [ref=e234]
+            - cell "27921.78" [ref=e235]
+            - cell "0.00" [ref=e236]
+            - cell "59.91" [ref=e237]
+            - cell "140.02" [ref=e238]
+            - cell "225.47" [ref=e239]
+            - cell "84.93" [ref=e240]
+            - cell "8.43" [ref=e241]
+          - row "2. HBL Engineering 796.65 26.35 22082.73 0.25 63.73 44.18 604.12 27.03 58.45" [ref=e242]:
+            - cell "2." [ref=e243]
+            - cell "HBL Engineering" [ref=e244]:
+              - link "HBL Engineering" [ref=e245] [cursor=pointer]:
+                - /url: /company/HBLENGINE/consolidated/
+            - cell "796.65" [ref=e246]
+            - cell "26.35" [ref=e247]
+            - cell "22082.73" [ref=e248]
+            - cell "0.25" [ref=e249]
+            - cell "63.73" [ref=e250]
+            - cell "44.18" [ref=e251]
+            - cell "604.12" [ref=e252]
+            - cell "27.03" [ref=e253]
+            - cell "58.45" [ref=e254]
+          - row "3. Inox India 1505.00 52.51 13660.37 0.13 75.24 11.19 460.65 24.70 33.48" [ref=e255]:
+            - cell "3." [ref=e256]
+            - cell "Inox India" [ref=e257]:
+              - link "Inox India" [ref=e258] [cursor=pointer]:
+                - /url: /company/INOXINDIA/consolidated/
+            - cell "1505.00" [ref=e259]
+            - cell "52.51" [ref=e260]
+            - cell "13660.37" [ref=e261]
+            - cell "0.13" [ref=e262]
+            - cell "75.24" [ref=e263]
+            - cell "11.19" [ref=e264]
+            - cell "460.65" [ref=e265]
+            - cell "24.70" [ref=e266]
+            - cell "33.48" [ref=e267]
+          - row "4. Esab India 5937.00 47.08 9117.19 1.09 43.55 -8.18 395.75 7.62 64.87" [ref=e268]:
+            - cell "4." [ref=e269]
+            - cell "Esab India" [ref=e270]:
+              - link "Esab India" [ref=e271] [cursor=pointer]:
+                - /url: /company/ESABINDIA/
+            - cell "5937.00" [ref=e272]
+            - cell "47.08" [ref=e273]
+            - cell "9117.19" [ref=e274]
+            - cell "1.09" [ref=e275]
+            - cell "43.55" [ref=e276]
+            - cell "-8.18" [ref=e277]
+            - cell "395.75" [ref=e278]
+            - cell "7.62" [ref=e279]
+            - cell "64.87" [ref=e280]
+          - row "5. KRN Heat Exchan 1217.70 99.27 7591.06 0.00 23.36 57.09 179.48 36.49 16.06" [ref=e281]:
+            - cell "5." [ref=e282]
+            - cell "KRN Heat Exchan" [ref=e283]:
+              - link "KRN Heat Exchan" [ref=e284] [cursor=pointer]:
+                - /url: /company/KRN/consolidated/
+            - cell "1217.70" [ref=e285]
+            - cell "99.27" [ref=e286]
+            - cell "7591.06" [ref=e287]
+            - cell "0.00" [ref=e288]
+            - cell "23.36" [ref=e289]
+            - cell "57.09" [ref=e290]
+            - cell "179.48" [ref=e291]
+            - cell "36.49" [ref=e292]
+            - cell "16.06" [ref=e293]
+          - row "6. Subros 726.50 27.55 4723.66 0.36 49.33 6.77 1049.76 15.55 19.75" [ref=e294]:
+            - cell "6." [ref=e295]
+            - cell "Subros" [ref=e296]:
+              - link "Subros" [ref=e297] [cursor=pointer]:
+                - /url: /company/SUBROS/consolidated/
+            - cell "726.50" [ref=e298]
+            - cell "27.55" [ref=e299]
+            - cell "4723.66" [ref=e300]
+            - cell "0.36" [ref=e301]
+            - cell "49.33" [ref=e302]
+            - cell "6.77" [ref=e303]
+            - cell "1049.76" [ref=e304]
+            - cell "15.55" [ref=e305]
+            - cell "19.75" [ref=e306]
+          - row "7. Harsha Engg Intl 393.65 23.11 3586.20 0.25 47.23 200.64 473.91 27.06 14.34" [ref=e307]:
+            - cell "7." [ref=e308]
+            - cell "Harsha Engg Intl" [ref=e309]:
+              - link "Harsha Engg Intl" [ref=e310] [cursor=pointer]:
+                - /url: /company/HARSHA/consolidated/
+            - cell "393.65" [ref=e311]
+            - cell "23.11" [ref=e312]
+            - cell "3586.20" [ref=e313]
+            - cell "0.25" [ref=e314]
+            - cell "47.23" [ref=e315]
+            - cell "200.64" [ref=e316]
+            - cell "473.91" [ref=e317]
+            - cell "27.06" [ref=e318]
+            - cell "14.34" [ref=e319]
+        - rowgroup [ref=e320]:
+          - 'row "Median: 35 Co. 325.35 23.52 413.76 0.0 6.18 6.77 78.12 9.46 16.22" [ref=e321]':
+            - cell [ref=e322]
+            - 'cell "Median: 35 Co." [ref=e323]'
+            - cell "325.35" [ref=e324]
+            - cell "23.52" [ref=e325]
+            - cell "413.76" [ref=e326]
+            - cell "0.0" [ref=e327]
+            - cell "6.18" [ref=e328]
+            - cell "6.77" [ref=e329]
+            - cell "78.12" [ref=e330]
+            - cell "9.46" [ref=e331]
+            - cell "16.22" [ref=e332]
+      - generic [ref=e333]:
+        - generic [ref=e334]: "Detailed Comparison with:"
+        - textbox "Detailed Comparison with:" [ref=e336]:
+          - /placeholder: eg. Infosys
+    - generic [ref=e337]:
+      - generic [ref=e338]:
+        - generic [ref=e339]:
+          - heading "Quarterly Results" [level=2] [ref=e340]
+          - paragraph [ref=e341]:
+            - text: Consolidated Figures in Rs. Crores /
+            - link "View Standalone" [ref=e342] [cursor=pointer]:
+              - /url: /company/HBLENGINE/#quarters
+        - generic [ref=e343]:
+          - text: 
+          - button " Product Segments" [ref=e344] [cursor=pointer]:
+            - generic [ref=e345]: 
+            - text: Product Segments
+      - table [ref=e347]:
+        - rowgroup [ref=e348]:
+          - row "Mar 2023 Jun 2023 Sep 2023 Dec 2023 Mar 2024 Jun 2024 Sep 2024 Dec 2024 Mar 2025 Jun 2025 Sep 2025 Dec 2025 Mar 2026" [ref=e349]:
+            - columnheader [ref=e350]
+            - columnheader "Mar 2023" [ref=e351]
+            - columnheader "Jun 2023" [ref=e352]
+            - columnheader "Sep 2023" [ref=e353]
+            - columnheader "Dec 2023" [ref=e354]
+            - columnheader "Mar 2024" [ref=e355]
+            - columnheader "Jun 2024" [ref=e356]
+            - columnheader "Sep 2024" [ref=e357]
+            - columnheader "Dec 2024" [ref=e358]
+            - columnheader "Mar 2025" [ref=e359]
+            - columnheader "Jun 2025" [ref=e360]
+            - columnheader "Sep 2025" [ref=e361]
+            - columnheader "Dec 2025" [ref=e362]
+            - columnheader "Mar 2026" [ref=e363]
+        - rowgroup [ref=e364]:
+          - row "Sales + 403 467 557 599 610 520 521 451 476 602 1,223 874 604" [ref=e365]:
+            - cell "Sales +" [ref=e366]:
+              - button "Sales +" [ref=e367] [cursor=pointer]
+            - cell "403" [ref=e368]
+            - cell "467" [ref=e369]
+            - cell "557" [ref=e370]
+            - cell "599" [ref=e371]
+            - cell "610" [ref=e372]
+            - cell "520" [ref=e373]
+            - cell "521" [ref=e374]
+            - cell "451" [ref=e375]
+            - cell "476" [ref=e376]
+            - cell "602" [ref=e377]
+            - cell "1,223" [ref=e378]
+            - cell "874" [ref=e379]
+            - cell "604" [ref=e380]
+          - row "Expenses + 358 390 456 486 479 410 412 357 396 410 679 572 529" [ref=e381]:
+            - cell "Expenses +" [ref=e382]:
+              - button "Expenses +" [ref=e383] [cursor=pointer]
+            - cell "358" [ref=e384]
+            - cell "390" [ref=e385]
+            - cell "456" [ref=e386]
+            - cell "486" [ref=e387]
+            - cell "479" [ref=e388]
+            - cell "410" [ref=e389]
+            - cell "412" [ref=e390]
+            - cell "357" [ref=e391]
+            - cell "396" [ref=e392]
+            - cell "410" [ref=e393]
+            - cell "679" [ref=e394]
+            - cell "572" [ref=e395]
+            - cell "529" [ref=e396]
+          - row "Operating Profit 45 78 101 113 131 110 109 94 79 192 544 302 75" [ref=e397]:
+            - cell "Operating Profit" [ref=e398]
+            - cell "45" [ref=e399]
+            - cell "78" [ref=e400]
+            - cell "101" [ref=e401]
+            - cell "113" [ref=e402]
+            - cell "131" [ref=e403]
+            - cell "110" [ref=e404]
+            - cell "109" [ref=e405]
+            - cell "94" [ref=e406]
+            - cell "79" [ref=e407]
+            - cell "192" [ref=e408]
+            - cell "544" [ref=e409]
+            - cell "302" [ref=e410]
+            - cell "75" [ref=e411]
+          - row "OPM % 11% 17% 18% 19% 22% 21% 21% 21% 17% 32% 44% 35% 12%" [ref=e412]:
+            - cell "OPM %" [ref=e413]
+            - cell "11%" [ref=e414]
+            - cell "17%" [ref=e415]
+            - cell "18%" [ref=e416]
+            - cell "19%" [ref=e417]
+            - cell "22%" [ref=e418]
+            - cell "21%" [ref=e419]
+            - cell "21%" [ref=e420]
+            - cell "21%" [ref=e421]
+            - cell "17%" [ref=e422]
+            - cell "32%" [ref=e423]
+            - cell "44%" [ref=e424]
+            - cell "35%" [ref=e425]
+            - cell "12%" [ref=e426]
+          - row "Other Income + 4 3 3 2 -19 5 12 2 6 17 -8 10 10" [ref=e427]:
+            - cell "Other Income +" [ref=e428]:
+              - button "Other Income +" [ref=e429] [cursor=pointer]
+            - cell "4" [ref=e430]
+            - cell "3" [ref=e431]
+            - cell "3" [ref=e432]
+            - cell "2" [ref=e433]
+            - cell "-19" [ref=e434]
+            - cell "5" [ref=e435]
+            - cell "12" [ref=e436]
+            - cell "2" [ref=e437]
+            - cell "6" [ref=e438]
+            - cell "17" [ref=e439]
+            - cell "-8" [ref=e440]
+            - cell "10" [ref=e441]
+            - cell "10" [ref=e442]
+          - row "Interest 3 2 3 3 4 2 3 5 4 6 3 3 2" [ref=e443]:
+            - cell "Interest" [ref=e444]
+            - cell "3" [ref=e445]
+            - cell "2" [ref=e446]
+            - cell "3" [ref=e447]
+            - cell "3" [ref=e448]
+            - cell "4" [ref=e449]
+            - cell "2" [ref=e450]
+            - cell "3" [ref=e451]
+            - cell "5" [ref=e452]
+            - cell "4" [ref=e453]
+            - cell "6" [ref=e454]
+            - cell "3" [ref=e455]
+            - cell "3" [ref=e456]
+            - cell "2" [ref=e457]
+          - row "Depreciation 10 10 10 11 11 11 11 11 11 12 12 12 15" [ref=e458]:
+            - cell "Depreciation" [ref=e459]
+            - cell "10" [ref=e460]
+            - cell "10" [ref=e461]
+            - cell "10" [ref=e462]
+            - cell "11" [ref=e463]
+            - cell "11" [ref=e464]
+            - cell "11" [ref=e465]
+            - cell "11" [ref=e466]
+            - cell "11" [ref=e467]
+            - cell "11" [ref=e468]
+            - cell "12" [ref=e469]
+            - cell "12" [ref=e470]
+            - cell "12" [ref=e471]
+            - cell "15" [ref=e472]
+          - row "Profit before tax 36 69 91 102 98 103 107 79 71 191 520 297 67" [ref=e473]:
+            - cell "Profit before tax" [ref=e474]
+            - cell "36" [ref=e475]
+            - cell "69" [ref=e476]
+            - cell "91" [ref=e477]
+            - cell "102" [ref=e478]
+            - cell "98" [ref=e479]
+            - cell "103" [ref=e480]
+            - cell "107" [ref=e481]
+            - cell "79" [ref=e482]
+            - cell "71" [ref=e483]
+            - cell "191" [ref=e484]
+            - cell "520" [ref=e485]
+            - cell "297" [ref=e486]
+            - cell "67" [ref=e487]
+          - row "Tax % 3% 25% 26% 23% 33% 26% 29% 26% 26% 26% 26% 27% 23%" [ref=e488]:
+            - cell "Tax %" [ref=e489]
+            - cell "3%" [ref=e490]
+            - cell "25%" [ref=e491]
+            - cell "26%" [ref=e492]
+            - cell "23%" [ref=e493]
+            - cell "33%" [ref=e494]
+            - cell "26%" [ref=e495]
+            - cell "29%" [ref=e496]
+            - cell "26%" [ref=e497]
+            - cell "26%" [ref=e498]
+            - cell "26%" [ref=e499]
+            - cell "26%" [ref=e500]
+            - cell "27%" [ref=e501]
+            - cell "23%" [ref=e502]
+          - row "Net Profit + 35 52 68 79 81 80 87 65 45 143 387 220 64" [ref=e503]:
+            - cell "Net Profit +" [ref=e504]:
+              - button "Net Profit +" [ref=e505] [cursor=pointer]
+            - cell "35" [ref=e506]
+            - cell "52" [ref=e507]
+            - cell "68" [ref=e508]
+            - cell "79" [ref=e509]
+            - cell "81" [ref=e510]
+            - cell "80" [ref=e511]
+            - cell "87" [ref=e512]
+            - cell "65" [ref=e513]
+            - cell "45" [ref=e514]
+            - cell "143" [ref=e515]
+            - cell "387" [ref=e516]
+            - cell "220" [ref=e517]
+            - cell "64" [ref=e518]
+          - row "EPS in Rs 1.26 1.87 2.48 2.85 2.94 2.89 3.15 2.33 1.62 5.17 13.97 7.96 2.30" [ref=e519]:
+            - cell "EPS in Rs" [ref=e520]
+            - cell "1.26" [ref=e521]
+            - cell "1.87" [ref=e522]
+            - cell "2.48" [ref=e523]
+            - cell "2.85" [ref=e524]
+            - cell "2.94" [ref=e525]
+            - cell "2.89" [ref=e526]
+            - cell "3.15" [ref=e527]
+            - cell "2.33" [ref=e528]
+            - cell "1.62" [ref=e529]
+            - cell "5.17" [ref=e530]
+            - cell "13.97" [ref=e531]
+            - cell "7.96" [ref=e532]
+            - cell "2.30" [ref=e533]
+          - row "Raw PDF Raw PDF Raw PDF Raw PDF Raw PDF Raw PDF Raw PDF Raw PDF Raw PDF Raw PDF Raw PDF Raw PDF Raw PDF Raw PDF" [ref=e534]:
+            - cell "Raw PDF" [ref=e535]
+            - cell "Raw PDF" [ref=e536]:
+              - link "Raw PDF" [ref=e537] [cursor=pointer]:
+                - /url: /company/source/quarter/1295/3/2023/
+                - generic [ref=e538]: 
+            - cell "Raw PDF" [ref=e539]:
+              - link "Raw PDF" [ref=e540] [cursor=pointer]:
+                - /url: /company/source/quarter/1295/6/2023/
+                - generic [ref=e541]: 
+            - cell "Raw PDF" [ref=e542]:
+              - link "Raw PDF" [ref=e543] [cursor=pointer]:
+                - /url: /company/source/quarter/1295/9/2023/
+                - generic [ref=e544]: 
+            - cell "Raw PDF" [ref=e545]:
+              - link "Raw PDF" [ref=e546] [cursor=pointer]:
+                - /url: /company/source/quarter/1295/12/2023/
+                - generic [ref=e547]: 
+            - cell "Raw PDF" [ref=e548]:
+              - link "Raw PDF" [ref=e549] [cursor=pointer]:
+                - /url: /company/source/quarter/1295/3/2024/
+                - generic [ref=e550]: 
+            - cell "Raw PDF" [ref=e551]:
+              - link "Raw PDF" [ref=e552] [cursor=pointer]:
+                - /url: /company/source/quarter/1295/6/2024/
+                - generic [ref=e553]: 
+            - cell "Raw PDF" [ref=e554]:
+              - link "Raw PDF" [ref=e555] [cursor=pointer]:
+                - /url: /company/source/quarter/1295/9/2024/
+                - generic [ref=e556]: 
+            - cell "Raw PDF" [ref=e557]:
+              - link "Raw PDF" [ref=e558] [cursor=pointer]:
+                - /url: /company/source/quarter/1295/12/2024/
+                - generic [ref=e559]: 
+            - cell "Raw PDF" [ref=e560]:
+              - link "Raw PDF" [ref=e561] [cursor=pointer]:
+                - /url: /company/source/quarter/1295/3/2025/
+                - generic [ref=e562]: 
+            - cell "Raw PDF" [ref=e563]:
+              - link "Raw PDF" [ref=e564] [cursor=pointer]:
+                - /url: /company/source/quarter/1295/6/2025/
+                - generic [ref=e565]: 
+            - cell "Raw PDF" [ref=e566]:
+              - link "Raw PDF" [ref=e567] [cursor=pointer]:
+                - /url: /company/source/quarter/1295/9/2025/
+                - generic [ref=e568]: 
+            - cell "Raw PDF" [ref=e569]:
+              - link "Raw PDF" [ref=e570] [cursor=pointer]:
+                - /url: /company/source/quarter/1295/12/2025/
+                - generic [ref=e571]: 
+            - cell "Raw PDF" [ref=e572]:
+              - link "Raw PDF" [ref=e573] [cursor=pointer]:
+                - /url: /company/source/quarter/1295/3/2026/
+                - generic [ref=e574]: 
+    - generic [ref=e575]:
+      - generic [ref=e576]:
+        - generic [ref=e577]:
+          - heading "Profit & Loss" [level=2] [ref=e578]
+          - paragraph [ref=e579]:
+            - text: Consolidated Figures in Rs. Crores /
+            - link "View Standalone" [ref=e580] [cursor=pointer]:
+              - /url: /company/HBLENGINE/#profit-loss
+        - generic [ref=e581]:
+          - button "📥 Related Party" [ref=e582] [cursor=pointer]:
+            - generic [ref=e583]: 📥
+            - text: Related Party
+          - text: 
+          - button " Product Segments" [ref=e584] [cursor=pointer]:
+            - generic [ref=e585]: 
+            - text: Product Segments
+      - table [ref=e587]:
+        - rowgroup [ref=e588]:
+          - row "Mar 2015 Mar 2016 Mar 2017 Mar 2018 Mar 2019 Mar 2020 Mar 2021 Mar 2022 Mar 2023 Mar 2024 Mar 2025 Mar 2026" [ref=e589]:
+            - columnheader [ref=e590]
+            - columnheader "Mar 2015" [ref=e591]
+            - columnheader "Mar 2016" [ref=e592]
+            - columnheader "Mar 2017" [ref=e593]
+            - columnheader "Mar 2018" [ref=e594]
+            - columnheader "Mar 2019" [ref=e595]
+            - columnheader "Mar 2020" [ref=e596]
+            - columnheader "Mar 2021" [ref=e597]
+            - columnheader "Mar 2022" [ref=e598]
+            - columnheader "Mar 2023" [ref=e599]
+            - columnheader "Mar 2024" [ref=e600]
+            - columnheader "Mar 2025" [ref=e601]
+            - columnheader "Mar 2026" [ref=e602]
+        - rowgroup [ref=e603]:
+          - row "Sales + 1,349 1,299 1,414 1,603 1,266 1,092 912 1,236 1,369 2,233 1,967 3,303" [ref=e604]:
+            - cell "Sales +" [ref=e605]:
+              - button "Sales +" [ref=e606] [cursor=pointer]
+            - cell "1,349" [ref=e607]
+            - cell "1,299" [ref=e608]
+            - cell "1,414" [ref=e609]
+            - cell "1,603" [ref=e610]
+            - cell "1,266" [ref=e611]
+            - cell "1,092" [ref=e612]
+            - cell "912" [ref=e613]
+            - cell "1,236" [ref=e614]
+            - cell "1,369" [ref=e615]
+            - cell "2,233" [ref=e616]
+            - cell "1,967" [ref=e617]
+            - cell "3,303" [ref=e618]
+          - row "Expenses + 1,210 1,164 1,286 1,477 1,169 1,011 845 1,097 1,217 1,810 1,574 2,190" [ref=e619]:
+            - cell "Expenses +" [ref=e620]:
+              - button "Expenses +" [ref=e621] [cursor=pointer]
+            - cell "1,210" [ref=e622]
+            - cell "1,164" [ref=e623]
+            - cell "1,286" [ref=e624]
+            - cell "1,477" [ref=e625]
+            - cell "1,169" [ref=e626]
+            - cell "1,011" [ref=e627]
+            - cell "845" [ref=e628]
+            - cell "1,097" [ref=e629]
+            - cell "1,217" [ref=e630]
+            - cell "1,810" [ref=e631]
+            - cell "1,574" [ref=e632]
+            - cell "2,190" [ref=e633]
+          - row "Operating Profit 139 134 129 126 97 81 67 139 151 423 393 1,113" [ref=e634]:
+            - cell "Operating Profit" [ref=e635]
+            - cell "139" [ref=e636]
+            - cell "134" [ref=e637]
+            - cell "129" [ref=e638]
+            - cell "126" [ref=e639]
+            - cell "97" [ref=e640]
+            - cell "81" [ref=e641]
+            - cell "67" [ref=e642]
+            - cell "139" [ref=e643]
+            - cell "151" [ref=e644]
+            - cell "423" [ref=e645]
+            - cell "393" [ref=e646]
+            - cell "1,113" [ref=e647]
+          - row "OPM % 10% 10% 9% 8% 8% 7% 7% 11% 11% 19% 20% 34%" [ref=e648]:
+            - cell "OPM %" [ref=e649]
+            - cell "10%" [ref=e650]
+            - cell "10%" [ref=e651]
+            - cell "9%" [ref=e652]
+            - cell "8%" [ref=e653]
+            - cell "8%" [ref=e654]
+            - cell "7%" [ref=e655]
+            - cell "7%" [ref=e656]
+            - cell "11%" [ref=e657]
+            - cell "11%" [ref=e658]
+            - cell "19%" [ref=e659]
+            - cell "20%" [ref=e660]
+            - cell "34%" [ref=e661]
+          - row "Other Income + 9 12 21 16 21 22 6 26 20 8 38 28" [ref=e662]:
+            - cell "Other Income +" [ref=e663]:
+              - button "Other Income +" [ref=e664] [cursor=pointer]
+            - cell "9" [ref=e665]
+            - cell "12" [ref=e666]
+            - cell "21" [ref=e667]
+            - cell "16" [ref=e668]
+            - cell "21" [ref=e669]
+            - cell "22" [ref=e670]
+            - cell "6" [ref=e671]
+            - cell "26" [ref=e672]
+            - cell "20" [ref=e673]
+            - cell "8" [ref=e674]
+            - cell "38" [ref=e675]
+            - cell "28" [ref=e676]
+          - row "Interest 71 68 46 41 31 22 15 7 7 13 13 15" [ref=e677]:
+            - cell "Interest" [ref=e678]
+            - cell "71" [ref=e679]
+            - cell "68" [ref=e680]
+            - cell "46" [ref=e681]
+            - cell "41" [ref=e682]
+            - cell "31" [ref=e683]
+            - cell "22" [ref=e684]
+            - cell "15" [ref=e685]
+            - cell "7" [ref=e686]
+            - cell "7" [ref=e687]
+            - cell "13" [ref=e688]
+            - cell "13" [ref=e689]
+            - cell "15" [ref=e690]
+          - row "Depreciation 53 51 48 46 44 41 39 35 35 41 44 51" [ref=e691]:
+            - cell "Depreciation" [ref=e692]
+            - cell "53" [ref=e693]
+            - cell "51" [ref=e694]
+            - cell "48" [ref=e695]
+            - cell "46" [ref=e696]
+            - cell "44" [ref=e697]
+            - cell "41" [ref=e698]
+            - cell "39" [ref=e699]
+            - cell "35" [ref=e700]
+            - cell "35" [ref=e701]
+            - cell "41" [ref=e702]
+            - cell "44" [ref=e703]
+            - cell "51" [ref=e704]
+          - row "Profit before tax 24 27 54 55 43 40 19 122 130 377 374 1,075" [ref=e705]:
+            - cell "Profit before tax" [ref=e706]
+            - cell "24" [ref=e707]
+            - cell "27" [ref=e708]
+            - cell "54" [ref=e709]
+            - cell "55" [ref=e710]
+            - cell "43" [ref=e711]
+            - cell "40" [ref=e712]
+            - cell "19" [ref=e713]
+            - cell "122" [ref=e714]
+            - cell "130" [ref=e715]
+            - cell "377" [ref=e716]
+            - cell "374" [ref=e717]
+            - cell "1,075" [ref=e718]
+          - row "Tax % 43% 45% 29% 42% 35% 35% 29% 23% 24% 26% 26% 26%" [ref=e719]:
+            - cell "Tax %" [ref=e720]
+            - cell "43%" [ref=e721]
+            - cell "45%" [ref=e722]
+            - cell "29%" [ref=e723]
+            - cell "42%" [ref=e724]
+            - cell "35%" [ref=e725]
+            - cell "35%" [ref=e726]
+            - cell "29%" [ref=e727]
+            - cell "23%" [ref=e728]
+            - cell "24%" [ref=e729]
+            - cell "26%" [ref=e730]
+            - cell "26%" [ref=e731]
+            - cell "26%" [ref=e732]
+          - row "Net Profit + 14 15 38 32 28 26 14 94 98 280 276 814" [ref=e733]:
+            - cell "Net Profit +" [ref=e734]:
+              - button "Net Profit +" [ref=e735] [cursor=pointer]
+            - cell "14" [ref=e736]
+            - cell "15" [ref=e737]
+            - cell "38" [ref=e738]
+            - cell "32" [ref=e739]
+            - cell "28" [ref=e740]
+            - cell "26" [ref=e741]
+            - cell "14" [ref=e742]
+            - cell "94" [ref=e743]
+            - cell "98" [ref=e744]
+            - cell "280" [ref=e745]
+            - cell "276" [ref=e746]
+            - cell "814" [ref=e747]
+          - row "EPS in Rs 0.56 0.59 1.53 1.14 1.00 0.95 0.50 3.39 3.56 10.13 9.99 29.40" [ref=e748]:
+            - cell "EPS in Rs" [ref=e749]
+            - cell "0.56" [ref=e750]
+            - cell "0.59" [ref=e751]
+            - cell "1.53" [ref=e752]
+            - cell "1.14" [ref=e753]
+            - cell "1.00" [ref=e754]
+            - cell "0.95" [ref=e755]
+            - cell "0.50" [ref=e756]
+            - cell "3.39" [ref=e757]
+            - cell "3.56" [ref=e758]
+            - cell "10.13" [ref=e759]
+            - cell "9.99" [ref=e760]
+            - cell "29.40" [ref=e761]
+          - row "Dividend Payout % 36% 42% 18% 22% 30% 32% 71% 12% 13% 5% 10% 3%" [ref=e762]:
+            - cell "Dividend Payout %" [ref=e763]
+            - cell "36%" [ref=e764]
+            - cell "42%" [ref=e765]
+            - cell "18%" [ref=e766]
+            - cell "22%" [ref=e767]
+            - cell "30%" [ref=e768]
+            - cell "32%" [ref=e769]
+            - cell "71%" [ref=e770]
+            - cell "12%" [ref=e771]
+            - cell "13%" [ref=e772]
+            - cell "5%" [ref=e773]
+            - cell "10%" [ref=e774]
+            - cell "3%" [ref=e775]
+      - generic [ref=e776]:
+        - table [ref=e777]:
+          - rowgroup [ref=e778]:
+            - row "Compounded Sales Growth" [ref=e779]:
+              - columnheader "Compounded Sales Growth" [ref=e780]
+            - 'row "10 Years: 10%" [ref=e781]':
+              - cell "10 Years:" [ref=e782]
+              - cell "10%" [ref=e783]
+            - 'row "5 Years: 29%" [ref=e784]':
+              - cell "5 Years:" [ref=e785]
+              - cell "29%" [ref=e786]
+            - 'row "3 Years: 34%" [ref=e787]':
+              - cell "3 Years:" [ref=e788]
+              - cell "34%" [ref=e789]
+            - 'row "TTM: 68%" [ref=e790]':
+              - cell "TTM:" [ref=e791]
+              - cell "68%" [ref=e792]
+        - table [ref=e793]:
+          - rowgroup [ref=e794]:
+            - row "Compounded Profit Growth" [ref=e795]:
+              - columnheader "Compounded Profit Growth" [ref=e796]
+            - 'row "10 Years: 49%" [ref=e797]':
+              - cell "10 Years:" [ref=e798]
+              - cell "49%" [ref=e799]
+            - 'row "5 Years: 118%" [ref=e800]':
+              - cell "5 Years:" [ref=e801]
+              - cell "118%" [ref=e802]
+            - 'row "3 Years: 105%" [ref=e803]':
+              - cell "3 Years:" [ref=e804]
+              - cell "105%" [ref=e805]
+            - 'row "TTM: 201%" [ref=e806]':
+              - cell "TTM:" [ref=e807]
+              - cell "201%" [ref=e808]
+        - table [ref=e809]:
+          - rowgroup [ref=e810]:
+            - row "Stock Price CAGR" [ref=e811]:
+              - columnheader "Stock Price CAGR" [ref=e812]
+            - 'row "10 Years: 38%" [ref=e813]':
+              - cell "10 Years:" [ref=e814]
+              - cell "38%" [ref=e815]
+            - 'row "5 Years: 78%" [ref=e816]':
+              - cell "5 Years:" [ref=e817]
+              - cell "78%" [ref=e818]
+            - 'row "3 Years: 87%" [ref=e819]':
+              - cell "3 Years:" [ref=e820]
+              - cell "87%" [ref=e821]
+            - 'row "1 Year: 31%" [ref=e822]':
+              - cell "1 Year:" [ref=e823]
+              - cell "31%" [ref=e824]
+        - table [ref=e825]:
+          - rowgroup [ref=e826]:
+            - row "Return on Equity" [ref=e827]:
+              - columnheader "Return on Equity" [ref=e828]
+            - 'row "10 Years: 18%" [ref=e829]':
+              - cell "10 Years:" [ref=e830]
+              - cell "18%" [ref=e831]
+            - 'row "5 Years: 27%" [ref=e832]':
+              - cell "5 Years:" [ref=e833]
+              - cell "27%" [ref=e834]
+            - 'row "3 Years: 33%" [ref=e835]':
+              - cell "3 Years:" [ref=e836]
+              - cell "33%" [ref=e837]
+            - 'row "Last Year: 45%" [ref=e838]':
+              - cell "Last Year:" [ref=e839]
+              - cell "45%" [ref=e840]
+    - generic [ref=e841]:
+      - generic [ref=e842]:
+        - generic [ref=e843]:
+          - heading "Balance Sheet" [level=2] [ref=e844]
+          - paragraph [ref=e845]:
+            - text: Consolidated Figures in Rs. Crores /
+            - link "View Standalone" [ref=e846] [cursor=pointer]:
+              - /url: /company/HBLENGINE/#balance-sheet
+        - button "Corporate actions" [ref=e848] [cursor=pointer]
+      - table [ref=e850]:
+        - rowgroup [ref=e851]:
+          - row "Mar 2015 Mar 2016 Mar 2017 Mar 2018 Mar 2019 Mar 2020 Mar 2021 Mar 2022 Mar 2023 Mar 2024 Mar 2025 Mar 2026" [ref=e852]:
+            - columnheader [ref=e853]
+            - columnheader "Mar 2015" [ref=e854]
+            - columnheader "Mar 2016" [ref=e855]
+            - columnheader "Mar 2017" [ref=e856]
+            - columnheader "Mar 2018" [ref=e857]
+            - columnheader "Mar 2019" [ref=e858]
+            - columnheader "Mar 2020" [ref=e859]
+            - columnheader "Mar 2021" [ref=e860]
+            - columnheader "Mar 2022" [ref=e861]
+            - columnheader "Mar 2023" [ref=e862]
+            - columnheader "Mar 2024" [ref=e863]
+            - columnheader "Mar 2025" [ref=e864]
+            - columnheader "Mar 2026" [ref=e865]
+        - rowgroup [ref=e866]:
+          - row "Equity Capital 25 25 28 28 28 28 28 28 28 28 28 28" [ref=e867]:
+            - cell "Equity Capital" [ref=e868]
+            - cell "25" [ref=e869]
+            - cell "25" [ref=e870]
+            - cell "28" [ref=e871]
+            - cell "28" [ref=e872]
+            - cell "28" [ref=e873]
+            - cell "28" [ref=e874]
+            - cell "28" [ref=e875]
+            - cell "28" [ref=e876]
+            - cell "28" [ref=e877]
+            - cell "28" [ref=e878]
+            - cell "28" [ref=e879]
+            - cell "28" [ref=e880]
+          - row "Reserves 539 584 701 724 739 745 754 838 924 1,193 1,455 2,187" [ref=e881]:
+            - cell "Reserves" [ref=e882]
+            - cell "539" [ref=e883]
+            - cell "584" [ref=e884]
+            - cell "701" [ref=e885]
+            - cell "724" [ref=e886]
+            - cell "739" [ref=e887]
+            - cell "745" [ref=e888]
+            - cell "754" [ref=e889]
+            - cell "838" [ref=e890]
+            - cell "924" [ref=e891]
+            - cell "1,193" [ref=e892]
+            - cell "1,455" [ref=e893]
+            - cell "2,187" [ref=e894]
+          - row "Borrowings + 686 549 479 366 232 161 70 63 86 67 74 67" [ref=e895]:
+            - cell "Borrowings +" [ref=e896]:
+              - button "Borrowings +" [ref=e897] [cursor=pointer]
+            - cell "686" [ref=e898]
+            - cell "549" [ref=e899]
+            - cell "479" [ref=e900]
+            - cell "366" [ref=e901]
+            - cell "232" [ref=e902]
+            - cell "161" [ref=e903]
+            - cell "70" [ref=e904]
+            - cell "63" [ref=e905]
+            - cell "86" [ref=e906]
+            - cell "67" [ref=e907]
+            - cell "74" [ref=e908]
+            - cell "67" [ref=e909]
+          - row "Other Liabilities + 311 277 258 224 162 169 184 204 257 366 422 661" [ref=e910]:
+            - cell "Other Liabilities +" [ref=e911]:
+              - button "Other Liabilities +" [ref=e912] [cursor=pointer]
+            - cell "311" [ref=e913]
+            - cell "277" [ref=e914]
+            - cell "258" [ref=e915]
+            - cell "224" [ref=e916]
+            - cell "162" [ref=e917]
+            - cell "169" [ref=e918]
+            - cell "184" [ref=e919]
+            - cell "204" [ref=e920]
+            - cell "257" [ref=e921]
+            - cell "366" [ref=e922]
+            - cell "422" [ref=e923]
+            - cell "661" [ref=e924]
+          - row "Total Liabilities 1,562 1,435 1,467 1,342 1,161 1,103 1,036 1,133 1,294 1,654 1,980 2,942" [ref=e925]:
+            - cell "Total Liabilities" [ref=e926]
+            - cell "1,562" [ref=e927]
+            - cell "1,435" [ref=e928]
+            - cell "1,467" [ref=e929]
+            - cell "1,342" [ref=e930]
+            - cell "1,161" [ref=e931]
+            - cell "1,103" [ref=e932]
+            - cell "1,036" [ref=e933]
+            - cell "1,133" [ref=e934]
+            - cell "1,294" [ref=e935]
+            - cell "1,654" [ref=e936]
+            - cell "1,980" [ref=e937]
+            - cell "2,942" [ref=e938]
+          - row "Fixed Assets + 456 415 417 363 321 304 279 265 320 354 397 441" [ref=e939]:
+            - cell "Fixed Assets +" [ref=e940]:
+              - button "Fixed Assets +" [ref=e941] [cursor=pointer]
+            - cell "456" [ref=e942]
+            - cell "415" [ref=e943]
+            - cell "417" [ref=e944]
+            - cell "363" [ref=e945]
+            - cell "321" [ref=e946]
+            - cell "304" [ref=e947]
+            - cell "279" [ref=e948]
+            - cell "265" [ref=e949]
+            - cell "320" [ref=e950]
+            - cell "354" [ref=e951]
+            - cell "397" [ref=e952]
+            - cell "441" [ref=e953]
+          - row "CWIP 49 48 33 26 37 27 43 81 50 20 68 127" [ref=e954]:
+            - cell "CWIP" [ref=e955]
+            - cell "49" [ref=e956]
+            - cell "48" [ref=e957]
+            - cell "33" [ref=e958]
+            - cell "26" [ref=e959]
+            - cell "37" [ref=e960]
+            - cell "27" [ref=e961]
+            - cell "43" [ref=e962]
+            - cell "81" [ref=e963]
+            - cell "50" [ref=e964]
+            - cell "20" [ref=e965]
+            - cell "68" [ref=e966]
+            - cell "127" [ref=e967]
+          - row "Investments 2 8 8 5 5 6 7 8 9 108 290 402" [ref=e968]:
+            - cell "Investments" [ref=e969]
+            - cell "2" [ref=e970]
+            - cell "8" [ref=e971]
+            - cell "8" [ref=e972]
+            - cell "5" [ref=e973]
+            - cell "5" [ref=e974]
+            - cell "6" [ref=e975]
+            - cell "7" [ref=e976]
+            - cell "8" [ref=e977]
+            - cell "9" [ref=e978]
+            - cell "108" [ref=e979]
+            - cell "290" [ref=e980]
+            - cell "402" [ref=e981]
+          - row "Other Assets + 1,054 964 1,008 947 797 766 707 779 915 1,171 1,225 1,972" [ref=e982]:
+            - cell "Other Assets +" [ref=e983]:
+              - button "Other Assets +" [ref=e984] [cursor=pointer]
+            - cell "1,054" [ref=e985]
+            - cell "964" [ref=e986]
+            - cell "1,008" [ref=e987]
+            - cell "947" [ref=e988]
+            - cell "797" [ref=e989]
+            - cell "766" [ref=e990]
+            - cell "707" [ref=e991]
+            - cell "779" [ref=e992]
+            - cell "915" [ref=e993]
+            - cell "1,171" [ref=e994]
+            - cell "1,225" [ref=e995]
+            - cell "1,972" [ref=e996]
+          - row "Total Assets 1,562 1,435 1,467 1,342 1,161 1,103 1,036 1,133 1,294 1,654 1,980 2,942" [ref=e997]:
+            - cell "Total Assets" [ref=e998]
+            - cell "1,562" [ref=e999]
+            - cell "1,435" [ref=e1000]
+            - cell "1,467" [ref=e1001]
+            - cell "1,342" [ref=e1002]
+            - cell "1,161" [ref=e1003]
+            - cell "1,103" [ref=e1004]
+            - cell "1,036" [ref=e1005]
+            - cell "1,133" [ref=e1006]
+            - cell "1,294" [ref=e1007]
+            - cell "1,654" [ref=e1008]
+            - cell "1,980" [ref=e1009]
+            - cell "2,942" [ref=e1010]
+    - generic [ref=e1011]:
+      - generic [ref=e1013]:
+        - heading "Cash Flows" [level=2] [ref=e1014]
+        - paragraph [ref=e1015]:
+          - text: Consolidated Figures in Rs. Crores /
+          - link "View Standalone" [ref=e1016] [cursor=pointer]:
+            - /url: /company/HBLENGINE/#cash-flow
+      - table [ref=e1018]:
+        - rowgroup [ref=e1019]:
+          - row "Mar 2015 Mar 2016 Mar 2017 Mar 2018 Mar 2019 Mar 2020 Mar 2021 Mar 2022 Mar 2023 Mar 2024 Mar 2025 Mar 2026" [ref=e1020]:
+            - columnheader [ref=e1021]
+            - columnheader "Mar 2015" [ref=e1022]
+            - columnheader "Mar 2016" [ref=e1023]
+            - columnheader "Mar 2017" [ref=e1024]
+            - columnheader "Mar 2018" [ref=e1025]
+            - columnheader "Mar 2019" [ref=e1026]
+            - columnheader "Mar 2020" [ref=e1027]
+            - columnheader "Mar 2021" [ref=e1028]
+            - columnheader "Mar 2022" [ref=e1029]
+            - columnheader "Mar 2023" [ref=e1030]
+            - columnheader "Mar 2024" [ref=e1031]
+            - columnheader "Mar 2025" [ref=e1032]
+            - columnheader "Mar 2026" [ref=e1033]
+        - rowgroup [ref=e1034]:
+          - row "Cash from Operating Activity + 79 158 43 159 167 149 121 62 122 273 247 738" [ref=e1035]:
+            - cell "Cash from Operating Activity +" [ref=e1036]:
+              - button "Cash from Operating Activity +" [ref=e1037] [cursor=pointer]
+            - cell "79" [ref=e1038]
+            - cell "158" [ref=e1039]
+            - cell "43" [ref=e1040]
+            - cell "159" [ref=e1041]
+            - cell "167" [ref=e1042]
+            - cell "149" [ref=e1043]
+            - cell "121" [ref=e1044]
+            - cell "62" [ref=e1045]
+            - cell "122" [ref=e1046]
+            - cell "273" [ref=e1047]
+            - cell "247" [ref=e1048]
+            - cell "738" [ref=e1049]
+          - row "Cash from Investing Activity + -13 -10 60 -8 1 -6 -32 -17 -50 -139 -320 -214" [ref=e1050]:
+            - cell "Cash from Investing Activity +" [ref=e1051]:
+              - button "Cash from Investing Activity +" [ref=e1052] [cursor=pointer]
+            - cell "-13" [ref=e1053]
+            - cell "-10" [ref=e1054]
+            - cell "60" [ref=e1055]
+            - cell "-8" [ref=e1056]
+            - cell "1" [ref=e1057]
+            - cell "-6" [ref=e1058]
+            - cell "-32" [ref=e1059]
+            - cell "-17" [ref=e1060]
+            - cell "-50" [ref=e1061]
+            - cell "-139" [ref=e1062]
+            - cell "-320" [ref=e1063]
+            - cell "-214" [ref=e1064]
+          - row "Cash from Financing Activity + -66 -153 -114 -150 -163 -114 -104 -22 10 -42 -33 -113" [ref=e1065]:
+            - cell "Cash from Financing Activity +" [ref=e1066]:
+              - button "Cash from Financing Activity +" [ref=e1067] [cursor=pointer]
+            - cell "-66" [ref=e1068]
+            - cell "-153" [ref=e1069]
+            - cell "-114" [ref=e1070]
+            - cell "-150" [ref=e1071]
+            - cell "-163" [ref=e1072]
+            - cell "-114" [ref=e1073]
+            - cell "-104" [ref=e1074]
+            - cell "-22" [ref=e1075]
+            - cell "10" [ref=e1076]
+            - cell "-42" [ref=e1077]
+            - cell "-33" [ref=e1078]
+            - cell "-113" [ref=e1079]
+          - row "Net Cash Flow -0 -5 -11 1 5 29 -14 23 82 91 -107 411" [ref=e1080]:
+            - cell "Net Cash Flow" [ref=e1081]
+            - cell "-0" [ref=e1082]
+            - cell "-5" [ref=e1083]
+            - cell "-11" [ref=e1084]
+            - cell "1" [ref=e1085]
+            - cell "5" [ref=e1086]
+            - cell "29" [ref=e1087]
+            - cell "-14" [ref=e1088]
+            - cell "23" [ref=e1089]
+            - cell "82" [ref=e1090]
+            - cell "91" [ref=e1091]
+            - cell "-107" [ref=e1092]
+            - cell "411" [ref=e1093]
+          - row "Free Cash Flow 62 144 5 149 168 140 86 41 68 228 96 618" [ref=e1094]:
+            - cell "Free Cash Flow" [ref=e1095]
+            - cell "62" [ref=e1096]
+            - cell "144" [ref=e1097]
+            - cell "5" [ref=e1098]
+            - cell "149" [ref=e1099]
+            - cell "168" [ref=e1100]
+            - cell "140" [ref=e1101]
+            - cell "86" [ref=e1102]
+            - cell "41" [ref=e1103]
+            - cell "68" [ref=e1104]
+            - cell "228" [ref=e1105]
+            - cell "96" [ref=e1106]
+            - cell "618" [ref=e1107]
+          - row "CFO/OP 60% 125% 41% 149% 192% 201% 184% 65% 105% 85% 88% 93%" [ref=e1108]:
+            - cell "CFO/OP" [ref=e1109]
+            - cell "60%" [ref=e1110]
+            - cell "125%" [ref=e1111]
+            - cell "41%" [ref=e1112]
+            - cell "149%" [ref=e1113]
+            - cell "192%" [ref=e1114]
+            - cell "201%" [ref=e1115]
+            - cell "184%" [ref=e1116]
+            - cell "65%" [ref=e1117]
+            - cell "105%" [ref=e1118]
+            - cell "85%" [ref=e1119]
+            - cell "88%" [ref=e1120]
+            - cell "93%" [ref=e1121]
+    - generic [ref=e1122]:
+      - generic [ref=e1124]:
+        - heading "Ratios" [level=2] [ref=e1125]
+        - paragraph [ref=e1126]:
+          - text: Consolidated Figures in Rs. Crores /
+          - link "View Standalone" [ref=e1127] [cursor=pointer]:
+            - /url: /company/HBLENGINE/#ratios
+      - table [ref=e1129]:
+        - rowgroup [ref=e1130]:
+          - row "Mar 2015 Mar 2016 Mar 2017 Mar 2018 Mar 2019 Mar 2020 Mar 2021 Mar 2022 Mar 2023 Mar 2024 Mar 2025 Mar 2026" [ref=e1131]:
+            - columnheader [ref=e1132]
+            - columnheader "Mar 2015" [ref=e1133]
+            - columnheader "Mar 2016" [ref=e1134]
+            - columnheader "Mar 2017" [ref=e1135]
+            - columnheader "Mar 2018" [ref=e1136]
+            - columnheader "Mar 2019" [ref=e1137]
+            - columnheader "Mar 2020" [ref=e1138]
+            - columnheader "Mar 2021" [ref=e1139]
+            - columnheader "Mar 2022" [ref=e1140]
+            - columnheader "Mar 2023" [ref=e1141]
+            - columnheader "Mar 2024" [ref=e1142]
+            - columnheader "Mar 2025" [ref=e1143]
+            - columnheader "Mar 2026" [ref=e1144]
+        - rowgroup [ref=e1145]:
+          - row "Debtor Days 106 120 122 103 105 102 102 86 83 58 69 71" [ref=e1146]:
+            - cell "Debtor Days" [ref=e1147]
+            - cell "106" [ref=e1148]
+            - cell "120" [ref=e1149]
+            - cell "122" [ref=e1150]
+            - cell "103" [ref=e1151]
+            - cell "105" [ref=e1152]
+            - cell "102" [ref=e1153]
+            - cell "102" [ref=e1154]
+            - cell "86" [ref=e1155]
+            - cell "83" [ref=e1156]
+            - cell "58" [ref=e1157]
+            - cell "69" [ref=e1158]
+            - cell "71" [ref=e1159]
+          - row "Inventory Days 226 185 168 126 145 162 188 149 147 137 201 148" [ref=e1160]:
+            - cell "Inventory Days" [ref=e1161]
+            - cell "226" [ref=e1162]
+            - cell "185" [ref=e1163]
+            - cell "168" [ref=e1164]
+            - cell "126" [ref=e1165]
+            - cell "145" [ref=e1166]
+            - cell "162" [ref=e1167]
+            - cell "188" [ref=e1168]
+            - cell "149" [ref=e1169]
+            - cell "147" [ref=e1170]
+            - cell "137" [ref=e1171]
+            - cell "201" [ref=e1172]
+            - cell "148" [ref=e1173]
+          - row "Days Payable 81 77 68 43 34 41 44 42 43 41 68 49" [ref=e1174]:
+            - cell "Days Payable" [ref=e1175]
+            - cell "81" [ref=e1176]
+            - cell "77" [ref=e1177]
+            - cell "68" [ref=e1178]
+            - cell "43" [ref=e1179]
+            - cell "34" [ref=e1180]
+            - cell "41" [ref=e1181]
+            - cell "44" [ref=e1182]
+            - cell "42" [ref=e1183]
+            - cell "43" [ref=e1184]
+            - cell "41" [ref=e1185]
+            - cell "68" [ref=e1186]
+            - cell "49" [ref=e1187]
+          - row "Cash Conversion Cycle 252 228 222 186 216 222 246 193 188 154 202 171" [ref=e1188]:
+            - cell "Cash Conversion Cycle" [ref=e1189]
+            - cell "252" [ref=e1190]
+            - cell "228" [ref=e1191]
+            - cell "222" [ref=e1192]
+            - cell "186" [ref=e1193]
+            - cell "216" [ref=e1194]
+            - cell "222" [ref=e1195]
+            - cell "246" [ref=e1196]
+            - cell "193" [ref=e1197]
+            - cell "188" [ref=e1198]
+            - cell "154" [ref=e1199]
+            - cell "202" [ref=e1200]
+            - cell "171" [ref=e1201]
+          - row "Working Capital Days 57 55 66 73 104 121 149 126 117 81 106 100" [ref=e1202]:
+            - cell "Working Capital Days" [ref=e1203]
+            - cell "57" [ref=e1204]
+            - cell "55" [ref=e1205]
+            - cell "66" [ref=e1206]
+            - cell "73" [ref=e1207]
+            - cell "104" [ref=e1208]
+            - cell "121" [ref=e1209]
+            - cell "149" [ref=e1210]
+            - cell "126" [ref=e1211]
+            - cell "117" [ref=e1212]
+            - cell "81" [ref=e1213]
+            - cell "106" [ref=e1214]
+            - cell "100" [ref=e1215]
+          - row "ROCE % 8% 8% 8% 9% 6% 6% 4% 13% 14% 36% 27% 58%" [ref=e1216]:
+            - cell "ROCE %" [ref=e1217]
+            - cell "8%" [ref=e1218]
+            - cell "8%" [ref=e1219]
+            - cell "8%" [ref=e1220]
+            - cell "9%" [ref=e1221]
+            - cell "6%" [ref=e1222]
+            - cell "6%" [ref=e1223]
+            - cell "4%" [ref=e1224]
+            - cell "13%" [ref=e1225]
+            - cell "14%" [ref=e1226]
+            - cell "36%" [ref=e1227]
+            - cell "27%" [ref=e1228]
+            - cell "58%" [ref=e1229]
+    - generic [ref=e1230]:
+      - generic [ref=e1231]:
+        - generic [ref=e1232]:
+          - heading "Insights" [level=2] [ref=e1233]
+          - generic [ref=e1234]: In beta
+          - button " Flag error" [disabled]:
+            - generic: 
+            - text: Flag error
+        - generic [ref=e1236]:
+          - button "Yearly" [ref=e1237] [cursor=pointer]
+          - button "Quarterly" [disabled]
+      - table [ref=e1240]:
+        - rowgroup [ref=e1241]:
+          - row "Mar 2015 Mar 2016 Mar 2017 Mar 2018 Mar 2019 Mar 2020 Mar 2021 Mar 2022 Mar 2023 Mar 2024 Mar 2025" [ref=e1242]:
+            - columnheader [ref=e1243]
+            - columnheader "Mar 2015" [ref=e1244]
+            - columnheader "Mar 2016" [ref=e1245]
+            - columnheader "Mar 2017" [ref=e1246]
+            - columnheader "Mar 2018" [ref=e1247]
+            - columnheader "Mar 2019" [ref=e1248]
+            - columnheader "Mar 2020" [ref=e1249]
+            - columnheader "Mar 2021" [ref=e1250]
+            - columnheader "Mar 2022" [ref=e1251]
+            - columnheader "Mar 2023" [ref=e1252]
+            - columnheader "Mar 2024" [ref=e1253]
+            - columnheader "Mar 2025" [ref=e1254]
+        - rowgroup [ref=e1255]:
+          - row "Export Contribution to Total Revenue % ・Includes some standalone data Log in to view insights Please log in to see hidden values.  Login" [ref=e1256]:
+            - cell "Export Contribution to Total Revenue % ・Includes some standalone data" [ref=e1257]:
+              - text: Export Contribution to Total Revenue
+              - text: "% ・Includes some standalone data"
+            - cell "Log in to view insights Please log in to see hidden values.  Login" [ref=e1258]:
+              - generic [ref=e1259]:
+                - table:
+                  - rowgroup:
+                    - row:
+                      - cell: xx.xx
+                      - cell: xx.xx
+                      - cell: xx.xx
+                      - cell: xx.xx
+                      - cell: xx.xx
+                      - cell: xx.xx
+                      - cell: xx.xx
+                      - cell: xx.xx
+                      - cell: xx.xx
+                      - cell
+                      - cell: xx.xx
+                    - row:
+                      - cell: x,xxx.xx
+                      - cell: x,xxx.xx
+                      - cell: x,xxx.xx
+                      - cell: x,xxx.xx
+                      - cell: x,xxx.xx
+                      - cell: xxx.xx
+                      - cell: xxx.xx
+                      - cell: x,xxx.xx
+                      - cell
+                      - cell: x,xxx.xx
+                      - cell: x,xxx.xx
+                    - row:
+                      - cell
+                      - cell
+                      - cell
+                      - cell: x.xx
+                      - cell: x.xx
+                      - cell
+                      - cell: x.xx
+                      - cell: x.xx
+                      - cell: x.xx
+                      - cell: x.xx
+                      - cell: x.xx
+                    - row:
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell: xx
+                      - cell: xx
+                      - cell: xx
+                      - cell
+                      - cell: xx
+                      - cell: xx
+                    - row:
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell: xx
+                      - cell: xx
+                      - cell
+                      - cell
+                      - cell: xx
+                      - cell: xx
+                    - row:
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell: xxx.xx
+                      - cell: xxx.xx
+                      - cell: xxx.xx
+                      - cell
+                      - cell: x,xxx.xx
+                    - row:
+                      - cell
+                      - cell: x
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell: x
+                      - cell
+                    - row:
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell: x.xx
+                      - cell
+                    - row:
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell
+                      - cell: x
+                      - cell
+              - generic [ref=e1261]:
+                - paragraph [ref=e1262]: Log in to view insights
+                - paragraph [ref=e1263]: Please log in to see hidden values.
+                - link " Login" [ref=e1264] [cursor=pointer]:
+                  - /url: /login/?next=/company/HBLENGINE/consolidated/
+          - row "Revenue Contribution - Batteries Segment Rs. Crore ・Standalone data" [ref=e1265]:
+            - cell "Revenue Contribution - Batteries Segment Rs. Crore ・Standalone data" [ref=e1266]:
+              - text: Revenue Contribution - Batteries Segment
+              - text: Rs. Crore ・Standalone data
+          - row "Debtors Turnover Ratio x" [ref=e1267]:
+            - cell "Debtors Turnover Ratio x" [ref=e1268]:
+              - text: Debtors Turnover Ratio
+              - text: x
+          - row "Nickel-Cadmium Battery Capacity Utilization %" [ref=e1269]:
+            - cell "Nickel-Cadmium Battery Capacity Utilization %" [ref=e1270]:
+              - text: Nickel-Cadmium Battery Capacity Utilization
+              - text: "%"
+          - row "Lead Acid Battery Capacity Utilization %" [ref=e1271]:
+            - cell "Lead Acid Battery Capacity Utilization %" [ref=e1272]:
+              - text: Lead Acid Battery Capacity Utilization
+              - text: "%"
+          - row "Order Book Rs. Crore" [ref=e1273]:
+            - cell "Order Book Rs. Crore" [ref=e1274]:
+              - text: Order Book
+              - text: Rs. Crore
+          - row "Market Rank - Nickel Cadmium Batteries (Global) Rank" [ref=e1275]:
+            - cell "Market Rank - Nickel Cadmium Batteries (Global) Rank" [ref=e1276]:
+              - text: Market Rank - Nickel Cadmium Batteries (Global)
+              - text: Rank
+          - row "Approved Product Variants (Kavach) Version Number ・Standalone data" [ref=e1277]:
+            - cell "Approved Product Variants (Kavach) Version Number ・Standalone data" [ref=e1278]:
+              - text: Approved Product Variants (Kavach)
+              - text: Version Number ・Standalone data
+          - row "Market Rank - Telecom Tower Batteries (Domestic) Rank ・Standalone data" [ref=e1279]:
+            - cell "Market Rank - Telecom Tower Batteries (Domestic) Rank ・Standalone data" [ref=e1280]:
+              - text: Market Rank - Telecom Tower Batteries (Domestic)
+              - text: Rank ・Standalone data
+      - paragraph [ref=e1281]:
+        - generic [ref=e1282]: 
+        - text: Extracted by Screener AI
+    - generic [ref=e1283]:
+      - generic [ref=e1284]:
+        - generic [ref=e1285]:
+          - heading "Shareholding Pattern" [level=2] [ref=e1286]
+          - paragraph [ref=e1287]: Numbers in percentages
+        - generic [ref=e1288]:
+          - generic [ref=e1289]:
+            - button "Quarterly" [ref=e1290] [cursor=pointer]
+            - button "Yearly" [ref=e1291] [cursor=pointer]
+          - button "Trades" [ref=e1293] [cursor=pointer]
+      - table [ref=e1296]:
+        - rowgroup [ref=e1297]:
+          - row "Jun 2023 Sep 2023 Dec 2023 Mar 2024 Jun 2024 Sep 2024 Dec 2024 Mar 2025 Jun 2025 Sep 2025 Dec 2025 Mar 2026" [ref=e1298]:
+            - columnheader [ref=e1299]
+            - columnheader "Jun 2023" [ref=e1300]
+            - columnheader "Sep 2023" [ref=e1301]
+            - columnheader "Dec 2023" [ref=e1302]
+            - columnheader "Mar 2024" [ref=e1303]
+            - columnheader "Jun 2024" [ref=e1304]
+            - columnheader "Sep 2024" [ref=e1305]
+            - columnheader "Dec 2024" [ref=e1306]
+            - columnheader "Mar 2025" [ref=e1307]
+            - columnheader "Jun 2025" [ref=e1308]
+            - columnheader "Sep 2025" [ref=e1309]
+            - columnheader "Dec 2025" [ref=e1310]
+            - columnheader "Mar 2026" [ref=e1311]
+        - rowgroup [ref=e1312]:
+          - row "Promoters + 59.10% 59.11% 59.11% 59.11% 59.11% 59.10% 59.10% 59.10% 59.10% 59.11% 59.11% 59.11%" [ref=e1313]:
+            - cell "Promoters +" [ref=e1314]:
+              - button "Promoters +" [ref=e1315] [cursor=pointer]
+            - cell "59.10%" [ref=e1316]
+            - cell "59.11%" [ref=e1317]
+            - cell "59.11%" [ref=e1318]
+            - cell "59.11%" [ref=e1319]
+            - cell "59.11%" [ref=e1320]
+            - cell "59.10%" [ref=e1321]
+            - cell "59.10%" [ref=e1322]
+            - cell "59.10%" [ref=e1323]
+            - cell "59.10%" [ref=e1324]
+            - cell "59.11%" [ref=e1325]
+            - cell "59.11%" [ref=e1326]
+            - cell "59.11%" [ref=e1327]
+          - row "FIIs + 2.63% 2.23% 2.66% 4.59% 4.66% 4.91% 5.22% 4.83% 4.83% 7.10% 5.87% 5.94%" [ref=e1328]:
+            - cell "FIIs +" [ref=e1329]:
+              - button "FIIs +" [ref=e1330] [cursor=pointer]
+            - cell "2.63%" [ref=e1331]
+            - cell "2.23%" [ref=e1332]
+            - cell "2.66%" [ref=e1333]
+            - cell "4.59%" [ref=e1334]
+            - cell "4.66%" [ref=e1335]
+            - cell "4.91%" [ref=e1336]
+            - cell "5.22%" [ref=e1337]
+            - cell "4.83%" [ref=e1338]
+            - cell "4.83%" [ref=e1339]
+            - cell "7.10%" [ref=e1340]
+            - cell "5.87%" [ref=e1341]
+            - cell "5.94%" [ref=e1342]
+          - row "DIIs + 0.14% 0.08% 0.41% 0.66% 1.07% 0.96% 0.39% 0.36% 0.36% 0.64% 0.82% 0.79%" [ref=e1343]:
+            - cell "DIIs +" [ref=e1344]:
+              - button "DIIs +" [ref=e1345] [cursor=pointer]
+            - cell "0.14%" [ref=e1346]
+            - cell "0.08%" [ref=e1347]
+            - cell "0.41%" [ref=e1348]
+            - cell "0.66%" [ref=e1349]
+            - cell "1.07%" [ref=e1350]
+            - cell "0.96%" [ref=e1351]
+            - cell "0.39%" [ref=e1352]
+            - cell "0.36%" [ref=e1353]
+            - cell "0.36%" [ref=e1354]
+            - cell "0.64%" [ref=e1355]
+            - cell "0.82%" [ref=e1356]
+            - cell "0.79%" [ref=e1357]
+          - row "Public + 38.14% 38.58% 37.82% 35.65% 35.17% 35.03% 35.27% 35.70% 35.70% 33.12% 34.20% 34.17%" [ref=e1358]:
+            - cell "Public +" [ref=e1359]:
+              - button "Public +" [ref=e1360] [cursor=pointer]
+            - cell "38.14%" [ref=e1361]
+            - cell "38.58%" [ref=e1362]
+            - cell "37.82%" [ref=e1363]
+            - cell "35.65%" [ref=e1364]
+            - cell "35.17%" [ref=e1365]
+            - cell "35.03%" [ref=e1366]
+            - cell "35.27%" [ref=e1367]
+            - cell "35.70%" [ref=e1368]
+            - cell "35.70%" [ref=e1369]
+            - cell "33.12%" [ref=e1370]
+            - cell "34.20%" [ref=e1371]
+            - cell "34.17%" [ref=e1372]
+          - row "No. of Shareholders 1,79,444 2,21,392 2,42,385 2,87,032 3,32,912 3,68,688 3,58,798 3,81,826 3,81,826 3,26,066 3,42,335 3,40,740" [ref=e1373]:
+            - cell "No. of Shareholders" [ref=e1374]
+            - cell "1,79,444" [ref=e1375]
+            - cell "2,21,392" [ref=e1376]
+            - cell "2,42,385" [ref=e1377]
+            - cell "2,87,032" [ref=e1378]
+            - cell "3,32,912" [ref=e1379]
+            - cell "3,68,688" [ref=e1380]
+            - cell "3,58,798" [ref=e1381]
+            - cell "3,81,826" [ref=e1382]
+            - cell "3,81,826" [ref=e1383]
+            - cell "3,26,066" [ref=e1384]
+            - cell "3,42,335" [ref=e1385]
+            - cell "3,40,740" [ref=e1386]
+      - paragraph [ref=e1387]:
+        - text: "* The classifications might have changed from Sep'2022 onwards."
+        - generic [ref=e1389]: 
+    - generic [ref=e1390]:
+      - heading "Documents" [level=2] [ref=e1392]
+      - generic [ref=e1393]:
+        - generic [ref=e1394]:
+          - heading "Announcements" [level=3] [ref=e1395]
+          - generic [ref=e1396]:
+            - generic [ref=e1397]:
+              - generic [ref=e1399]:
+                - button "Recent" [ref=e1400] [cursor=pointer]
+                - button "Important" [ref=e1401] [cursor=pointer]
+                - button "Search" [ref=e1402] [cursor=pointer]
+                - link "All " [ref=e1403] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/stock-share-price/hbl-engineering-ltd/HBLENGINE/517271/corp-announcements/
+                  - text: All
+                  - generic [ref=e1404]: 
+              - list [ref=e1405]:
+                - listitem [ref=e1406]:
+                  - link "Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order 28 May - CLW awards HBL Rs.1,714 crore KAVACH equipment contract, to be completed within 12 months." [ref=e1407] [cursor=pointer]:
+                    - /url: https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a78749d6-c7cd-41a8-8fd0-2424d2dbb028.pdf
+                    - text: Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order
+                    - generic [ref=e1408]: 28 May - CLW awards HBL Rs.1,714 crore KAVACH equipment contract, to be completed within 12 months.
+                - listitem [ref=e1409]:
+                  - link "Statement Of Deviation Of Funds For March 31, 2026 28 May - No deviation in issue proceeds for quarter ended March 31, 2026; audit committee noted nil status." [ref=e1410] [cursor=pointer]:
+                    - /url: https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=118c10dc-2a02-4295-9f81-23157f4fb01f.pdf
+                    - text: Statement Of Deviation Of Funds For March 31, 2026
+                    - generic [ref=e1411]: 28 May - No deviation in issue proceeds for quarter ended March 31, 2026; audit committee noted nil status.
+                - listitem [ref=e1412]:
+                  - link "Information To The Shareholders 24 May - May 24, 2026 note explains FY26 results, Q4 profitability dip, and FY27 sales and profit outlook." [ref=e1413] [cursor=pointer]:
+                    - /url: https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a5941c28-58d2-43d0-bf41-54e7d778d05a.pdf
+                    - text: Information To The Shareholders
+                    - generic [ref=e1414]: 24 May - May 24, 2026 note explains FY26 results, Q4 profitability dip, and FY27 sales and profit outlook.
+                - listitem [ref=e1415]:
+                  - link "Board Meeting Outcome for The Board In Its Meeting Held On May 23, 2026 Have Apprived The Audited Financial Results For The Year Ending March 31, 2026 23 May - FY26 audited results approved; standalone profit ₹796.79 crore, final dividend ₹1/share, AGM on Sept 26, 2026." [ref=e1416] [cursor=pointer]:
+                    - /url: https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=20b5b3e7-ac8d-49b7-85b4-e63463eca900.pdf
+                    - text: Board Meeting Outcome for The Board In Its Meeting Held On May 23, 2026 Have Apprived The Audited Financial Results For The Year Ending March 31, 2026
+                    - generic [ref=e1417]: 23 May - FY26 audited results approved; standalone profit ₹796.79 crore, final dividend ₹1/share, AGM on Sept 26, 2026.
+                - listitem [ref=e1418]:
+                  - link "Board Meeting Intimation for To Consider Audited Financial Results And Recommendation Of Final Dividend, If Any. 28 Apr - Board meets on May 23, 2026 to approve FY26 audited results and consider dividend." [ref=e1419] [cursor=pointer]:
+                    - /url: https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=59a719be-3570-41e0-8335-c830103ac481.pdf
+                    - text: Board Meeting Intimation for To Consider Audited Financial Results And Recommendation Of Final Dividend, If Any.
+                    - generic [ref=e1420]: 28 Apr - Board meets on May 23, 2026 to approve FY26 audited results and consider dividend.
+            - button "show more" [ref=e1421] [cursor=pointer]:
+              - generic [ref=e1422]: 
+        - generic [ref=e1423]:
+          - heading "Annual reports" [level=3] [ref=e1424]
+          - generic [ref=e1425]:
+            - list [ref=e1426]:
+              - listitem [ref=e1427]:
+                - link "Financial Year 2025 from bse" [ref=e1428] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/xml-data/corpfiling/AttachHis/8867270e-616f-4352-9592-cc4e30cd1cfb.pdf
+                  - text: Financial Year 2025
+                  - generic [ref=e1429]: from bse
+              - listitem [ref=e1430]:
+                - link "Financial Year 2024 from bse" [ref=e1431] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/xml-data/corpfiling/AttachHis/83e65e50-2435-4498-8f48-307c43871afc.pdf
+                  - text: Financial Year 2024
+                  - generic [ref=e1432]: from bse
+              - listitem [ref=e1433]:
+                - link "Financial Year 2023 from bse" [ref=e1434] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/xml-data/corpfiling/AttachHis/837ffb2d-ee43-495f-a01b-9716c2d81926.pdf
+                  - text: Financial Year 2023
+                  - generic [ref=e1435]: from bse
+              - listitem [ref=e1436]:
+                - link "Financial Year 2022 from bse" [ref=e1437] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/bseplus/AnnualReport/517271/75551517271.pdf
+                  - text: Financial Year 2022
+                  - generic [ref=e1438]: from bse
+              - listitem [ref=e1439]:
+                - link "Financial Year 2021 from bse" [ref=e1440] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/bseplus/AnnualReport/517271/70560517271.pdf
+                  - text: Financial Year 2021
+                  - generic [ref=e1441]: from bse
+              - listitem [ref=e1442]:
+                - link "Financial Year 2020 from bse" [ref=e1443] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/bseplus/AnnualReport/517271/65489517271.pdf
+                  - text: Financial Year 2020
+                  - generic [ref=e1444]: from bse
+              - listitem [ref=e1445]:
+                - link "Financial Year 2019 from bse" [ref=e1446] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/bseplus/AnnualReport/517271/5172710319.pdf
+                  - text: Financial Year 2019
+                  - generic [ref=e1447]: from bse
+              - listitem [ref=e1448]:
+                - link "Financial Year 2018 from bse" [ref=e1449] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/bseplus/AnnualReport/517271/5172710318.pdf
+                  - text: Financial Year 2018
+                  - generic [ref=e1450]: from bse
+              - listitem [ref=e1451]:
+                - link "Financial Year 2017 from bse" [ref=e1452] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/bseplus/AnnualReport/517271/5172710317.pdf
+                  - text: Financial Year 2017
+                  - generic [ref=e1453]: from bse
+              - listitem [ref=e1454]:
+                - link "Financial Year 2016 from bse" [ref=e1455] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/bseplus/AnnualReport/517271/5172710316.pdf
+                  - text: Financial Year 2016
+                  - generic [ref=e1456]: from bse
+              - listitem [ref=e1457]:
+                - link "Financial Year 2015 from bse" [ref=e1458] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/bseplus/AnnualReport/517271/5172710315.pdf
+                  - text: Financial Year 2015
+                  - generic [ref=e1459]: from bse
+              - listitem [ref=e1460]:
+                - link "Financial Year 2014 from bse" [ref=e1461] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/bseplus/AnnualReport/517271/5172710314.pdf
+                  - text: Financial Year 2014
+                  - generic [ref=e1462]: from bse
+              - listitem [ref=e1463]:
+                - link "Financial Year 2013 from bse" [ref=e1464] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/bseplus/AnnualReport/517271/5172710313.pdf
+                  - text: Financial Year 2013
+                  - generic [ref=e1465]: from bse
+              - listitem [ref=e1466]:
+                - link "Financial Year 2012 from bse" [ref=e1467] [cursor=pointer]:
+                  - /url: https://www.bseindia.com/bseplus/AnnualReport/517271/32656517271.pdf
+                  - text: Financial Year 2012
+                  - generic [ref=e1468]: from bse
+              - listitem [ref=e1469]:
+                - link "Financial Year 2011 from nse" [ref=e1470] [cursor=pointer]:
+                  - /url: https://archives.nseindia.com/annual_reports/AR_HBLPOWER_2010_2011_20062012125556.zip
+                  - text: Financial Year 2011
+                  - generic [ref=e1471]: from nse
+            - button "show more" [ref=e1472] [cursor=pointer]:
+              - generic [ref=e1473]: 
+        - generic [ref=e1474]:
+          - heading "Credit ratings" [level=3] [ref=e1475]
+          - generic [ref=e1476]:
+            - list [ref=e1477]:
+              - listitem [ref=e1478]:
+                - link "Rating update 25 Feb from care" [ref=e1479] [cursor=pointer]:
+                  - /url: https://www.careratings.com/upload/CompanyFiles/PR/202602120202_HBL_Engineering_Limited.pdf
+                  - text: Rating update
+                  - generic [ref=e1480]: 25 Feb from care
+              - listitem [ref=e1481]:
+                - link "Rating update 10 Oct 2025 from care" [ref=e1482] [cursor=pointer]:
+                  - /url: https://www.careratings.com/upload/CompanyFiles/PR/202510141000_HBL_Engineering_Limited.pdf
+                  - text: Rating update
+                  - generic [ref=e1483]: 10 Oct 2025 from care
+              - listitem [ref=e1484]:
+                - link "Rating update 31 Mar 2025 from care" [ref=e1485] [cursor=pointer]:
+                  - /url: https://www.careratings.com/upload/CompanyFiles/PR/202503140304_HBL_Engineering_Limited.pdf
+                  - text: Rating update
+                  - generic [ref=e1486]: 31 Mar 2025 from care
+              - listitem [ref=e1487]:
+                - link "Rating update 3 Oct 2024 from care" [ref=e1488] [cursor=pointer]:
+                  - /url: https://www.careratings.com/upload/CompanyFiles/PR/202410141000_HBL_Power_Systems_Limited.pdf
+                  - text: Rating update
+                  - generic [ref=e1489]: 3 Oct 2024 from care
+              - listitem [ref=e1490]:
+                - link "Rating update 28 Aug 2023 from care" [ref=e1491] [cursor=pointer]:
+                  - /url: https://www.careratings.com/upload/CompanyFiles/PR/202308120820_HBL_Power_Systems_Limited.pdf
+                  - text: Rating update
+                  - generic [ref=e1492]: 28 Aug 2023 from care
+              - listitem [ref=e1493]:
+                - link "Rating update 7 Oct 2022 from care" [ref=e1494] [cursor=pointer]:
+                  - /url: https://www.careratings.com/upload/CompanyFiles/PR/07102022064600_HBL_Power_Systems_Limited.pdf
+                  - text: Rating update
+                  - generic [ref=e1495]: 7 Oct 2022 from care
+            - button "show more" [ref=e1496] [cursor=pointer]:
+              - generic [ref=e1497]: 
+        - generic [ref=e1498]:
+          - generic [ref=e1499]:
+            - heading "Concalls" [level=3] [ref=e1500]
+            - button " Add Missing" [ref=e1501] [cursor=pointer]:
+              - generic [ref=e1502]: 
+              - text: Add Missing
+          - list [ref=e1504]:
+            - listitem [ref=e1505]:
+              - generic [ref=e1506]: Sep 2025
+              - link "Transcript" [ref=e1507] [cursor=pointer]:
+                - /url: https://hbl.in/reports/agm/hbl_engi_ltd_agm_transcript_2025.pdf
+              - button "AI Summary" [ref=e1508] [cursor=pointer]
+              - generic: PPT
+              - link "REC" [ref=e1509] [cursor=pointer]:
+                - /url: https://hbl.in/reports/agm/hbl_engi_ltd_agm_call_2025_240.mp4
+            - listitem [ref=e1510]:
+              - generic [ref=e1511]: Jul 2024
+              - generic: Transcript
+              - button "AI Summary" [ref=e1512] [cursor=pointer]
+              - generic: PPT
+              - link "REC" [ref=e1513] [cursor=pointer]:
+                - /url: https://www.hbl.in/reports/HBL_Investor_call_recording_08072024.mp3
+            - listitem [ref=e1514]:
+              - generic [ref=e1515]: Sep 2023
+              - generic: Transcript
+              - generic: AI Summary
+              - link "PPT" [ref=e1516] [cursor=pointer]:
+                - /url: https://www.bseindia.com/xml-data/corpfiling/AttachHis/769685c8-5512-465a-bfa8-433645e26f17.pdf
+            - listitem [ref=e1517]:
+              - generic [ref=e1518]: Feb 2023
+              - generic: Transcript
+              - generic: AI Summary
+              - link "PPT" [ref=e1519] [cursor=pointer]:
+                - /url: https://www.bseindia.com/xml-data/corpfiling/AttachHis/bf42f239-a7c1-4192-824c-7f3d15347c6f.pdf
+  - contentinfo [ref=e1520]:
+    - generic [ref=e1521]:
+      - generic [ref=e1522]:
+        - img "Screener Logo" [ref=e1523]
+        - paragraph [ref=e1524]: Stock analysis and screening tool
+        - paragraph [ref=e1525]:
+          - text: Mittal Analytics Private Ltd © 2009-2025
+          - text: Made with
+          - generic [ref=e1526]: 
+          - text: in India.
+        - paragraph [ref=e1527]: Data provided by C-MOTS Internet Technologies Pvt Ltd
+        - paragraph [ref=e1528]:
+          - link "Terms" [ref=e1529] [cursor=pointer]:
+            - /url: /guides/terms/
+          - text: "&"
+          - link "Privacy" [ref=e1530] [cursor=pointer]:
+            - /url: /guides/privacy/
+          - text: .
+      - generic [ref=e1531]:
+        - generic [ref=e1532]:
+          - generic [ref=e1533]: Product
+          - list [ref=e1534]:
+            - listitem [ref=e1535]:
+              - link "Premium" [ref=e1536] [cursor=pointer]:
+                - /url: /premium/?driver=footer
+            - listitem [ref=e1537]:
+              - link "What's new?" [ref=e1538] [cursor=pointer]:
+                - /url: /docs/changelog/
+            - listitem [ref=e1539]:
+              - link "Learn" [ref=e1540] [cursor=pointer]:
+                - /url: https://bit.ly/learnscreener
+            - listitem [ref=e1541]: 
+        - generic [ref=e1542]:
+          - generic [ref=e1543]: Team
+          - list [ref=e1544]:
+            - listitem [ref=e1545]:
+              - link "About us" [ref=e1546] [cursor=pointer]:
+                - /url: /guides/about-us/
+            - listitem [ref=e1547]:
+              - link "Support" [ref=e1548] [cursor=pointer]:
+                - /url: /support/
+        - generic [ref=e1549]:
+          - generic [ref=e1550]: Theme
+          - list [ref=e1551]:
+            - listitem [ref=e1552]:
+              - button "Set light theme" [ref=e1553] [cursor=pointer]:
+                - generic [ref=e1554]: 
+                - text: Light
+            - listitem [ref=e1555]:
+              - button "Set dark theme" [ref=e1556] [cursor=pointer]:
+                - generic [ref=e1557]: 
+                - text: Dark
+            - listitem [ref=e1558]:
+              - button "Set auto theme" [ref=e1559] [cursor=pointer]:
+                - generic [ref=e1560]: 
+                - text: Auto

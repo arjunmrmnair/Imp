@@ -120,6 +120,37 @@ This document tracks all learned rules across agents and sessions. It serves as 
   - Red Flags: NPA >3% (banks), promoter pledge >5%, debt spikes, -ve FCF
   - **Rule SE.11 Enforcement:** If ANY above metric fails → DO NOT recommend as multibagger. Classify as recovery/turnaround play or avoid.
 
+- **Rule SE.12: Forward Valuation & Management Guidance Mandate (v3.3 - CRITICAL):**
+  - **MANDATORY:** For every stock analysis, proof-test management reliability before forward-projecting.
+  - **Step 0: Promise vs. Delivery Check:** Verify if the actual PAT for the current year met/exceeded the guidance provided by management in the *previous* year.
+  - **Step 1: EPS Trajectory Quotes (MANDATORY):** Extract and explicitly quote the EPS/Profit growth rate guided in *last year's* concall AND compare it with the *current* concall guidance.
+  - **Step 2: Next-Year Guidance & Exact Quote (MANDATORY):** Extract next year's PAT/Revenue guidance. You MUST include the exact quote from management regarding this guidance in every response.
+  - **Step 3: The 3-Year CAGR Verification:** Explicitly conclude if the stock's forward trajectory supports a **20% to 25%+ CAGR for the next 3 years**.
+  - **Step 4: CFO Reality Check:** If CFO/PAT < 50%, warn of "Paper Profit Trap."
+  - **Step 5: The Ultimate Valuation & Upside Matrix:** 
+    - **Forward PE:** `Current Market Cap / Suggested PAT`. (Tells us how cheap the stock is today based on next year's earnings).
+    - **Target PE:** The exit multiple the stock *should* trade at (usually the 5Y/10Y Median PE or Industry PE).
+    - **Forward Market Cap:** `Suggested PAT * Target PE`. (What the company will be worth if it hits the target).
+    - **Upside Potential (X-Times):** `Forward Market Cap / Current Market Cap`. (The Wealth Multiplier: 2.0x means your money doubles).
+  - **Step 6: Valuation Verdict:** Strict PEG Scale ( < 1.0 Deep Value | 1.0-1.5 Fair | > 2.0 Expensive).
+  - **Step 7: Lifetime Verdict:** Explicitly state if the stock is a **"LIFETIME HOLD"** for 15-20 years based on moat and ROCE > 25%.
+  - **Step 8: Mandatory News & Concall Summary:** You MUST include a summary of the latest news (last 4 months) and a summary of the past 3 concalls in your response without fail.
+  - **Response Mandate:** Every response MUST explicitly state: "Verified current PAT against previous year's guidance: [MET/MISSED]", MUST provide the EXACT quotes for EPS growth (Past vs Current), MUST provide the latest news and 3-concall summary, and MUST definitively state if it meets the 20-25% 3-Year CAGR target, and MUST include the **Forward PE** and the **Upside Potential (X-Times)** wealth multiplier.
+
+- **Rule SE.13: The Scuttlebutt Method (Digital Ground-Truthing):**
+  - Do not trust financial numbers in a vacuum. You MUST execute Philip Fisher's Scuttlebutt method by performing deep-web searches for:
+    1. **Employee Sentiment:** Are employees happy or leaving? (Glassdoor/AmbitionBox context).
+    2. **Customer Obsession:** Do people actually like the product? (App reviews, Google reviews, Reddit forums).
+    3. **Supplier/Competitor Noise:** Are there supply chain disputes or aggressive competitor moves?
+  - **Response Mandate:** Include a dedicated "Scuttlebutt Findings" section in every stock audit.
+
+- **Rule SE.14: Playwright Extraction Mandate (Visual Proof Protocol):**
+  - **MANDATORY:** For all stock data verification, you MUST use `playwright-cli` to interact with `screener.in`.
+  - **Process:** Open browser → Navigate to ticker → Scroll to "Concalls/Documents" at the bottom → Open latest transcript.
+  - **Screenshot Proof:** You MUST take a screenshot of every transcript or PPT you open. 
+  - **Response Mandate:** Every response MUST explicitly mention the filename of the captured screenshot as proof of data integrity.
+  - **Goal:** This rule ensures that your "Management Quotes" and "Step 0" checks are based on visual verification of actual company documents, providing the user with a verifiable audit trail.
+
 
 ## Stock Critique Agent Rules
 

@@ -6,6 +6,12 @@
         "-m",
         "mempalace.mcp_server"
       ]
+    },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ]
     }
   },
   "hooks": {
@@ -31,5 +37,5 @@
         ]
       }
     ]
-    }
-    }
+  }
+}

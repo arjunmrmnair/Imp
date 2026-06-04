@@ -1,0 +1,8 @@
+{
+  "name": "copilot-cli-helpers",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "pw": "node ./scripts/pw.js"
+  }
+}
